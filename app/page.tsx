@@ -67,7 +67,7 @@ export default function HomePage() {
               <h1 className="text-sm font-semibold text-white mb-4 leading-relaxed">
                 Live as they lived.
               </h1>
-              <p className="text-xs text-[#888] leading-relaxed max-w-xs">
+              <p className="text-sm text-[#999] leading-relaxed max-w-xs">
                 Practical wisdom from the Prophet &#65018; and the three generations that followed. Every entry sourced and cited.
               </p>
             </div>
@@ -88,7 +88,7 @@ export default function HomePage() {
             <p className="font-arabic text-white text-right" style={{fontSize:"30px",lineHeight:"2.8"}} dir="rtl">
               &#x644;&#x64E;&#x642;&#x64E;&#x62F;&#x652; &#x643;&#x64E;&#x627;&#x646;&#x64E; &#x644;&#x64E;&#x643;&#x64F;&#x645;&#x652; &#x641;&#x650;&#x64A; &#x631;&#x64E;&#x633;&#x64F;&#x648;&#x644;&#x650; &#x627;&#x644;&#x644;&#x651;&#x64E;&#x647;&#x650; &#x623;&#x64F;&#x633;&#x652;&#x648;&#x64E;&#x629;&#x064C; &#x62D;&#x64E;&#x633;&#x64E;&#x646;&#x64E;&#x629;&#x064C;
             </p>
-            <p className="text-xs text-[#555] mt-4 text-right leading-relaxed">
+            <p className="text-sm text-[#777] mt-4 text-right leading-relaxed">
               Indeed in the Messenger of Allah you have an excellent example.
             </p>
           </div>
@@ -113,7 +113,7 @@ export default function HomePage() {
                 </div>
                 <p className="font-arabic text-[#bbb] mb-4 text-right" style={{fontSize:"26px",lineHeight:"2.6"}} dir="rtl">{g.arabic}</p>
                 <p className="text-sm font-semibold text-white mb-3 group-hover:text-[#ccc] transition-colors">{g.title}</p>
-                <p className="text-xs text-[#666] leading-relaxed">{g.desc}</p>
+                <p className="text-sm text-[#888] leading-relaxed">{g.desc}</p>
               </div>
               <p className="text-[10px] uppercase tracking-widest text-[#555] mt-6 group-hover:text-[#888] transition-colors">Read &rarr;</p>
             </Link>
@@ -143,10 +143,10 @@ export default function HomePage() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-px bg-[#1a1a1a] border border-[#1a1a1a]">
           <div className="bg-black p-6 md:col-span-2">
             <p className="text-[10px] uppercase tracking-widest text-[#777] mb-4">About this site</p>
-            <p className="text-xs text-[#888] leading-relaxed mb-3">
-              <em>Taqi</em> (&#x637;&#x627;&#x642;&#x64A;) means &ldquo;the pure one&rdquo; in Arabic. This site makes the lived example of Islam&rsquo;s best generations accessible and practical &mdash; across four generations, six domains, from authenticated sources only.
+            <p className="text-sm text-[#999] leading-relaxed mb-3">
+              Taqi (&#x637;&#x627;&#x642;&#x64A;) means &ldquo;the pure one&rdquo; in Arabic. This site makes the lived example of Islam&rsquo;s best generations accessible and practical &mdash; across four generations, six domains, from authenticated sources only.
             </p>
-            <p className="text-xs text-[#666] leading-relaxed">
+            <p className="text-sm text-[#888] leading-relaxed">
               All narrations are drawn from Sahih Bukhari, Sahih Muslim, Sunan al-Tirmidhi, Sunan Abu Dawud, Sunan Ibn Majah, Tabaqat Ibn Sa&rsquo;d, Siyar A&rsquo;lam al-Nubala, and Hilyat al-Awliya. Every entry is cited with source, book, and chain.
             </p>
           </div>

@@ -20,8 +20,8 @@ export default function TabieenOverview() {
         <p className="font-arabic text-white mb-6 text-right" style={{ fontSize: "36px", lineHeight: "2.8" }} dir="rtl">
           التَّابِعُون
         </p>
-        <h1 className="text-sm font-semibold text-white mb-3">The Tabi&apos;een</h1>
-        <p className="text-xs text-[#666] leading-relaxed max-w-lg">
+        <h1 className="text-base font-semibold text-white mb-3">The Tabi&apos;een</h1>
+        <p className="text-sm text-[#999] leading-relaxed max-w-lg">
           Those who followed — the generation that met the Companions of the Prophet ﷺ and learned directly from them. They carried forward the living tradition of the Sunnah at a time when Islam was spreading rapidly, preserving its essence with meticulous care.
         </p>
       </header>
@@ -33,9 +33,9 @@ export default function TabieenOverview() {
               <Link key={p.id} href={`/tabieen/${p.slug}`} className="bg-black p-6 group hover:bg-[#080808] transition-colors flex items-start justify-between">
                 <div className="flex-1">
                   <p className="text-[10px] uppercase tracking-widest text-[#555] mb-3">{p.years}</p>
-                  <p className="text-sm font-semibold text-white mb-1 group-hover:text-[#ccc] transition-colors">{p.name}</p>
-                  <p className="text-xs text-[#666] italic mb-3">{p.title}</p>
-                  <p className="text-xs text-[#555] leading-relaxed max-w-lg">{p.bio.slice(0, 140)}…</p>
+                  <p className="text-base font-semibold text-white mb-1 group-hover:text-[#ccc] transition-colors">{p.name}</p>
+                  <p className="text-sm text-[#777] mb-3">{p.title}</p>
+                  <p className="text-sm text-[#888] leading-relaxed max-w-lg">{p.bio.slice(0, 140)}…</p>
                 </div>
                 <div className="ml-8 text-right flex-shrink-0">
                   <p className="text-[10px] text-[#444] uppercase tracking-widest mb-2">{totalEntries} narrations</p>

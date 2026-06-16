@@ -29,7 +29,7 @@ export default function ProphetClient({ entries }: { entries: HadithEntry[] }) {
             >
               الشَّمَائِلُ الْمُحَمَّدِيَّة
             </p>
-            <p className="text-xs text-[#666] leading-relaxed">
+            <p className="text-sm text-[#888] leading-relaxed">
               The noble characteristics of the Messenger of Allah ﷺ, compiled by Imam al-Tirmidhi. These narrations preserve the physical and moral portrait of the Prophet ﷺ as witnessed by those who loved him most.
             </p>
           </div>

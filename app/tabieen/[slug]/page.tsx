@@ -30,8 +30,8 @@ export default function TabieenProfile({ params }: { params: { slug: string } })
       <header className="max-w-3xl mx-auto px-4 pt-16 pb-10 border-b border-[#1a1a1a]">
         <p className="text-[10px] uppercase tracking-widest text-[#555] mb-3">Tabi&apos;een · {person.years}</p>
         <h1 className="text-sm font-semibold text-white mb-1">{person.name}</h1>
-        <p className="text-xs text-[#666] italic mb-5">{person.title}</p>
-        <p className="text-xs text-[#666] leading-relaxed max-w-lg mb-4">{person.bio}</p>
+        <p className="text-sm text-[#777] mb-5">{person.title}</p>
+        <p className="text-sm text-[#999] leading-relaxed max-w-lg mb-4">{person.bio}</p>
         <p className="text-[10px] uppercase tracking-widest text-[#444]">{totalEntries} narrations across 6 domains</p>
       </header>
       <PersonClient person={person} />

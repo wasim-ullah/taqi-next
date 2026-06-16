@@ -30,10 +30,10 @@ export default function ProphetPage() {
         >
           النَّبِيُّ مُحَمَّدٌ ﷺ
         </p>
-        <h1 className="text-sm font-semibold text-white mb-3">
+        <h1 className="text-base font-semibold text-white mb-3">
           The Prophet Muhammad ﷺ
         </h1>
-        <p className="text-xs text-[#666] leading-relaxed max-w-lg">
+        <p className="text-sm text-[#999] leading-relaxed max-w-lg">
           A mercy to all the worlds. His life is a lamp for ours. {entries.length} narrations across six domains of practice, drawn from authenticated sources.
         </p>
       </header>

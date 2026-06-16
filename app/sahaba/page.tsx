@@ -25,8 +25,8 @@ export default function SahabaOverview() {
         >
           الصَّحَابَة
         </p>
-        <h1 className="text-sm font-semibold text-white mb-3">The Sahaba</h1>
-        <p className="text-xs text-[#666] leading-relaxed max-w-lg">
+        <h1 className="text-base font-semibold text-white mb-3">The Sahaba</h1>
+        <p className="text-sm text-[#999] leading-relaxed max-w-lg">
           The Companions of the Prophet ﷺ — may Allah be pleased with them all. They saw the Prophet ﷺ, sat in his company, and carried his example into the world. Their lives are a living commentary on the Quran and Sunnah.
         </p>
       </header>
@@ -45,11 +45,11 @@ export default function SahabaOverview() {
                   <p className="text-[10px] uppercase tracking-widest text-[#555] mb-3">
                     {p.years}
                   </p>
-                  <p className="text-sm font-semibold text-white mb-1 group-hover:text-[#ccc] transition-colors">
+                  <p className="text-base font-semibold text-white mb-1 group-hover:text-[#ccc] transition-colors">
                     {p.name}
                   </p>
-                  <p className="text-xs text-[#666] italic mb-3">{p.title}</p>
-                  <p className="text-xs text-[#555] leading-relaxed max-w-lg">
+                  <p className="text-sm text-[#777] mb-3">{p.title}</p>
+                  <p className="text-sm text-[#888] leading-relaxed max-w-lg">
                     {p.bio.slice(0, 140)}…
                   </p>
                 </div>

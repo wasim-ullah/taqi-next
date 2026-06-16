@@ -33,8 +33,8 @@ export default function AboutPage() {
           تقي
         </p>
         <h1 className="text-sm font-semibold text-white mb-3">The Pure One</h1>
-        <p className="text-xs text-[#666] leading-relaxed max-w-lg">
-          <em>Taqi</em> (تقي) means the pure one in Arabic — a name given to those who are pious, God-fearing, and careful in their conduct.
+        <p className="text-sm text-[#999] leading-relaxed max-w-lg">
+          Taqi (تقي) means the pure one in Arabic — a name given to those who are pious, God-fearing, and careful in their conduct.
         </p>
       </header>
 
@@ -43,10 +43,10 @@ export default function AboutPage() {
         {/* What this is */}
         <div className="border border-[#1a1a1a] p-6 mb-px">
           <p className="text-[10px] uppercase tracking-widest text-[#777] mb-4">What this is</p>
-          <p className="text-xs text-[#888] leading-relaxed mb-3">
+          <p className="text-sm text-[#999] leading-relaxed mb-3">
             This site is an attempt to make the lived example of Islam&rsquo;s best generations accessible and practical — organized not by biography but by domain. Four generations, six domains each: Shamail (character), Trade &amp; Business, Family Life, Social Life, Spiritual Life, and Private Life.
           </p>
-          <p className="text-xs text-[#666] leading-relaxed">
+          <p className="text-sm text-[#888] leading-relaxed">
             The Prophet ﷺ — then those who saw him — then those who saw them — then those who saw them. Each generation passed the lamp of practice to the next with fidelity. This site tries to preserve that chain in a readable form.
           </p>
         </div>
@@ -64,7 +64,7 @@ export default function AboutPage() {
               <div key={g.gen} className="bg-black p-4 flex items-center justify-between gap-4">
                 <div>
                   <p className="text-[10px] uppercase tracking-widest text-[#555] mb-1">Gen {g.gen} · {g.label}</p>
-                  <p className="text-xs text-[#555] leading-relaxed">{g.note}</p>
+                  <p className="text-sm text-[#888] leading-relaxed">{g.note}</p>
                 </div>
                 <p
                   className="font-arabic text-[#333] text-right flex-shrink-0"
@@ -86,7 +86,7 @@ export default function AboutPage() {
               <div key={s.english} className="bg-black p-4 flex items-start justify-between gap-4">
                 <div>
                   <p className="text-xs text-[#bbb] mb-0.5">{s.english}</p>
-                  <p className="text-[10px] text-[#555]">{s.author}</p>
+                  <p className="text-xs text-[#666]">{s.author}</p>
                 </div>
                 <p
                   className="font-arabic text-[#333] text-right flex-shrink-0"
@@ -103,10 +103,10 @@ export default function AboutPage() {
         {/* Hadith grading note */}
         <div className="border border-[#1a1a1a] border-t-0 p-6">
           <p className="text-[10px] uppercase tracking-widest text-[#777] mb-4">On Authenticity</p>
-          <p className="text-xs text-[#666] leading-relaxed mb-3">
+          <p className="text-sm text-[#999] leading-relaxed mb-3">
             Only narrations graded Sahih (authentic) or Hasan (good) have been included. Where narrations come from biographical sources (Tabaqat, Siyar, Hilyat al-Awliya), they are drawn from accounts considered reliable by the compiling scholars.
           </p>
-          <p className="text-xs text-[#555] leading-relaxed">
+          <p className="text-sm text-[#888] leading-relaxed">
             No fabricated (mawdu&rsquo;) narrations are included. Every entry is cited with its book and narrator chain. We ask Allah for accuracy and seek His forgiveness for any error in transmission.
           </p>
         </div>
