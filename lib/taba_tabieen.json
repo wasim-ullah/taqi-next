@@ -1,0 +1,592 @@
+[
+  {
+    "id": "imam-malik",
+    "slug": "imam-malik",
+    "name": "Imam Malik ibn Anas (RH)",
+    "title": "Imam Dar al-Hijrah — Imam of the Abode of Migration",
+    "years": "711–795 CE",
+    "bio": "Imam Malik ibn Anas (RH) was the founder of the Maliki school of jurisprudence and the leading scholar of Madinah in his era. His Muwatta is the oldest compiled collection of hadith and law. He studied under Nafi (freed slave of Ibn Umar) and other senior Tabi'een, and he was so devoted to the scholarly tradition of Madinah that he famously refused to ride a mount in the city out of reverence for the Prophet ﷺ whose body lay within it. He was flogged by an Abbasid governor for a fatwa on the invalidity of oaths given under compulsion, but never recanted.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "ml-sh-01",
+          "title": "His Veneration for the City of the Prophet ﷺ",
+          "source": "Siyar A'lam al-Nubala 8:54 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Imam Malik (RH) is reported to have never ridden a mount within the bounds of Madinah from the time he became a scholar until his death. He would dismount at the city limits and walk. When asked why, he said: I am too embarrassed to tread with the hooves of an animal on the earth beneath which lies the Messenger of Allah ﷺ.",
+          "context": "This is veneration that manifested in a physical practice sustained over decades. He walked through Madinah. Not occasionally, not symbolically, but consistently — as a lifelong expression of the love and reverence that cannot be fully stated in words."
+        },
+        {
+          "id": "ml-sh-02",
+          "title": "His Composure When Flogged",
+          "source": "Siyar A'lam al-Nubala 8:62 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "When Ja'far ibn Sulayman, the Abbasid governor of Madinah, ordered Malik (RH) to be flogged and his arm twisted for a fatwa on divorce under compulsion, Malik bore the punishment without publicly recanting. When asked afterward about his experience, he said: They stretched my arm and I was concerned it would be dislocated. But I feared that if I showed anger, my patience might be diminished before Allah.",
+          "context": "His concern during the flogging was spiritual, not physical: that his anger might diminish his patience before Allah. He was being beaten and his inner concern was the condition of his own heart. This is an orientation of priorities that most cannot achieve in ordinary circumstances, let alone extreme ones."
+        }
+      ],
+      "trade": [
+        {
+          "id": "ml-tr-01",
+          "title": "Honesty in His Scholarly Transmission",
+          "source": "Siyar A'lam al-Nubala 8:48 (al-Dhahabi)",
+          "chain": "Historical narration via al-Shafi'i",
+          "content": "Al-Shafi'i (RH) said: When Malik was asked about a matter of fiqh or hadith and he did not know the answer with certainty, he would say: I do not know. He would not speculate. Some counts record that in a single sitting he said I do not know to thirty-two consecutive questions. He said: Saying I do not know is half of knowledge.",
+          "context": "Saying I do not know, thirty-two times in a single sitting. He applied the ethics of honest trade to the trade of knowledge: disclose what you do not know rather than sell an uncertain product. The scholar who admits ignorance earns more trust than the one who has an answer for everything."
+        },
+        {
+          "id": "ml-tr-02",
+          "title": "His Careful Approach to Issuing Legal Rulings",
+          "source": "Siyar A'lam al-Nubala 8:61 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Imam Malik (RH) used to say before issuing a fatwa: I do not issue a ruling until I have consulted thirty jurists who are more learned than me. And he said to one who asked him a question: This is a matter between me and Allah — if I give you a wrong answer, I am the one who will be questioned for it. So give me time.",
+          "context": "He consulted thirty scholars before answering. He requested time on difficult questions. The most authoritative jurist in Madinah treated his fatwas as matters of serious spiritual consequence — for himself, not merely for the questioner."
+        }
+      ],
+      "family": [
+        {
+          "id": "ml-fa-01",
+          "title": "His Respect for His Mother's Instruction",
+          "source": "Siyar A'lam al-Nubala 8:46 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Malik's mother dressed him in the garments of a scholar when he was young and took him by the hand to the circle of Rabi'ah ibn Abi Abd al-Rahman, saying: Go and learn from his manners before you learn from his knowledge. This instruction shaped his understanding of scholarship: character first, then text.",
+          "context": "His mother's instruction — learn his character before his knowledge — became Malik's own teaching philosophy. The container of character must be formed before the content of knowledge is poured in. He attributed this to his mother and this precedence was central to how he taught."
+        },
+        {
+          "id": "ml-fa-02",
+          "title": "His Gentleness with Students",
+          "source": "Siyar A'lam al-Nubala 8:65 (al-Dhahabi)",
+          "chain": "Historical narration via al-Shafi'i",
+          "content": "Al-Shafi'i (RH) said: I never saw Malik strike a student, nor heard him speak harshly to one. If a student made an error, he would repeat the correct answer and move on. He said: Harsh teachers produce students who are afraid to ask. I would rather have a student who asks too much than one who asks nothing.",
+          "context": "He designed his teaching environment for psychological safety. A student who is afraid to ask learns nothing. Malik's concern for the student's experience was not softness — it was pedagogical wisdom: learning requires the freedom to be wrong and ask again."
+        }
+      ],
+      "social": [
+        {
+          "id": "ml-so-01",
+          "title": "Scholars Traveling to Learn from Him",
+          "source": "Siyar A'lam al-Nubala 8:50 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Students and scholars traveled from Andalusia, North Africa, Persia, and Yemen to sit in Malik's circle in Madinah. He held his circles with great formality — he would perform ablution, put on his best garments, perfume himself, and sit on a cushion with complete composure before the session began. He said: I honor the hadith of the Messenger of Allah ﷺ — how then should I not honor the sitting in which it is transmitted?",
+          "context": "He dressed formally to transmit hadith because the hadith of the Prophet ﷺ deserved formal presentation. The preparation of the teacher's body and spirit for the session was itself a pedagogical act — modeling to students what the transmitted words were worth."
+        },
+        {
+          "id": "ml-so-02",
+          "title": "His Care for the Poor of Madinah",
+          "source": "Siyar A'lam al-Nubala 8:58 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Imam Malik (RH) was known to give generously from his income to the poor of Madinah. He said: The scholar who eats well while the poor in his neighborhood go hungry has a reckoning with Allah before he has a reckoning with his books.",
+          "context": "He held scholars to a higher standard of neighborhood responsibility. The possession of knowledge gave no exemption from the duty of feeding the hungry nearby. He named it directly: a reckoning with Allah before a reckoning with books."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "ml-sp-01",
+          "title": "His Reverence Before Hadith Transmission",
+          "source": "Siyar A'lam al-Nubala 8:55 (al-Dhahabi)",
+          "chain": "Historical narration via al-Shafi'i",
+          "content": "Al-Shafi'i (RH) said: I saw Malik, when he wished to sit and narrate hadith, perform ablution, sit on a high cushion, comb his beard, and put on his most beautiful garments. He narrated hadith with dignity and reverence. Someone asked him why he did all this for a scholarly session. He said: I revere the hadith of the Messenger of Allah ﷺ, so I wish to honor it.",
+          "context": "Ritual preparation before narrating hadith — wudu, dress, posture, composure. He treated the act of transmitting the Prophet's ﷺ words as an act of worship with its own preparation. This attitude produced students who also treated hadith with reverence."
+        },
+        {
+          "id": "ml-sp-02",
+          "title": "His Connection to the Prophet ﷺ Through His City",
+          "source": "Siyar A'lam al-Nubala 8:56 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Imam Malik (RH) said: The people of Madinah have an inheritance that others do not have. We inhale the air that the Messenger of Allah ﷺ inhaled. We walk the earth he walked. Every stone here is a witness. I do not leave this city because I would leave what cannot be found anywhere else on earth.",
+          "context": "He stayed in Madinah his whole life — not from inability to travel but from a conscious choice to remain near the grave of the Prophet ﷺ and the living tradition of his city. He believed proximity to that tradition was an advantage that no other city could offer."
+        }
+      ],
+      "private": [
+        {
+          "id": "ml-pr-01",
+          "title": "His Simple Private Life",
+          "source": "Siyar A'lam al-Nubala 8:63 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Imam Malik (RH) dressed formally for his scholarly sessions but lived simply at home. His house was modest and his meals were plain. He said: I do not need the world to be large for me. I need only enough to free my mind for what matters.",
+          "context": "The formality was for the Quran and hadith — for the sacred transmission. At home, away from the session, simplicity returned. He invested his presentation in the service of knowledge, not in personal comfort or display."
+        },
+        {
+          "id": "ml-pr-02",
+          "title": "His Last Words",
+          "source": "Siyar A'lam al-Nubala 8:67 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Imam Malik (RH) was asked in his final illness what he was experiencing. He said: What is there to say? I only wish I had been stricter in the fatwas I gave — that every matter I ruled permissible, I had made haram, and every matter I made haram, I had left to Allah. He died in 179 AH after a prolonged illness, having spent his final months in intensive recitation of the Quran.",
+          "context": "His final regret was that his fatwas had been too permissive. The man who spent a lifetime saying I do not know wanted, at the end, to have said it even more. This is the scholar's final humility: the lifelong work was not enough, the care could have been more."
+        }
+      ]
+    }
+  },
+  {
+    "id": "imam-al-shafii",
+    "slug": "imam-al-shafii",
+    "name": "Imam al-Shafi'i (RH)",
+    "title": "Nasir al-Sunnah — Defender of the Sunnah",
+    "years": "767–820 CE",
+    "bio": "Muhammad ibn Idris al-Shafi'i (RH) was the founder of the Shafi'i school and the architect of the science of Islamic jurisprudence (usul al-fiqh). He memorized the Quran at age seven and the Muwatta of Imam Malik at age ten. Orphaned young and raised in poverty, he memorized poetry by writing it on bones from the rubbish heap. He studied under Imam Malik in Madinah for years, then under Imam Muhammad al-Shaybani in Baghdad, synthesizing their approaches in his seminal work al-Risala — the first systematic treatise on the principles of Islamic law.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "sh-sh-01",
+          "title": "His Eloquence and Memory",
+          "source": "Siyar A'lam al-Nubala 10:5 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Al-Asma'i (RH), the great grammarian, is reported to have said: I used to correct the poetry of the tribes of Arabia alongside a young Qurayshi youth in Makkah. The youth was al-Shafi'i (RH). He had an extraordinary memory for poetry and Arabic — he had memorized ten thousand verses of Hudhali poetry alone.",
+          "context": "Before he was a jurist, he was a poet and a grammarian. His mastery of the Arabic language was not incidental to his fiqh — it was foundational. He could read the Quran and hadith with the precision of a native speaker of classical Arabic who understood every nuance."
+        },
+        {
+          "id": "sh-sh-02",
+          "title": "His Generosity Despite Poverty",
+          "source": "Siyar A'lam al-Nubala 10:18 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It is narrated that al-Shafi'i (RH) never had money that lasted until the next day. Whatever came to him, he gave away before nightfall. He said: I have never saved money, and whenever I earned some I distributed it before sleeping. I trust that Allah will send more tomorrow, as He sent today.",
+          "context": "He distributed daily, retaining nothing overnight. This was not impracticality — it was a deliberate form of trust in Allah. He experienced every morning as a new provision and treated the previous day's earnings as concluded."
+        }
+      ],
+      "trade": [
+        {
+          "id": "sh-tr-01",
+          "title": "On Earning a Lawful Living",
+          "source": "Siyar A'lam al-Nubala 10:22 (al-Dhahabi)",
+          "chain": "Attributed to al-Shafi'i (RH)",
+          "content": "Al-Shafi'i (RH) said: Seeking a lawful livelihood is an obligation after the obligations. And he said: The one who is poor and has someone dependent on him who does not work to earn is sinning. Reliance upon Allah does not mean abandoning the means — it means using the means with trust.",
+          "context": "He distinguished tawakkul (reliance on Allah) from passivity. Using the means with trust in Allah is tawakkul. Abandoning the means and calling it tawakkul is laziness dressed in religious language. He named the distinction clearly."
+        },
+        {
+          "id": "sh-tr-02",
+          "title": "His Poem on Trade and Character",
+          "source": "Diwan al-Shafi'i (collected poetry attributed to him)",
+          "chain": "Attributed to al-Shafi'i (RH)",
+          "content": "Al-Shafi'i (RH) is reported to have said in verse: Travel — in travel are five benefits: relief of distress, earning of livelihood, knowledge, good manners, and the companionship of the noble. And if it is said: In traveling there is hardship and distance from home — then death is better than life in humiliation.",
+          "context": "He was a traveler — from Makkah to Madinah, from Madinah to Baghdad, from Baghdad to Egypt. He understood travel as inherently educational: it earns, teaches, refines character, and exposes one to people of quality. He lived this poem."
+        }
+      ],
+      "family": [
+        {
+          "id": "sh-fa-01",
+          "title": "His Respect for His Mother Who Raised Him Alone",
+          "source": "Siyar A'lam al-Nubala 10:6 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Al-Shafi'i (RH) was orphaned before the age of two and was raised by his mother in poverty in Makkah. She took him to Makkah when he was still young to ensure he grew up in a scholarly environment. It is said that when he spoke of her, his voice changed, and he attributed his scholarship entirely to her sacrifices. He said: I owe everything to my mother.",
+          "context": "He was raised by one woman in poverty, and he knew it. Everything he became — the greatest jurist of his generation — was built on the foundation of a mother who prioritized his education when she had very little to give."
+        },
+        {
+          "id": "sh-fa-02",
+          "title": "His Tenderness with Students as Family",
+          "source": "Siyar A'lam al-Nubala 10:25 (al-Dhahabi)",
+          "chain": "Historical narration via Imam Ahmad",
+          "content": "Imam Ahmad ibn Hanbal (RH) said: Al-Shafi'i was to me like a father. I learned from him not just fiqh but manners, humility, and the etiquette of knowledge. He was as generous with his time as with his money — he would sit with a student until the student's question was fully resolved, however long it took.",
+          "context": "Imam Ahmad — who would become the fourth great Imam — called al-Shafi'i like a father. The transmission between them was not only intellectual but personal and emotional. He modeled the scholar-student relationship as a form of family, with the responsibilities that entails."
+        }
+      ],
+      "social": [
+        {
+          "id": "sh-so-01",
+          "title": "His Respect for Scholarly Disagreement",
+          "source": "Siyar A'lam al-Nubala 10:30 (al-Dhahabi)",
+          "chain": "Attributed to al-Shafi'i (RH)",
+          "content": "Al-Shafi'i (RH) said: In every matter I have debated, I have hoped that the truth would appear on my opponent's tongue. And he said: I do not dispute with anyone for the sake of winning. I dispute so that the truth may be known — whether it emerges from my mouth or from his.",
+          "context": "He debated to find truth, not to win. The measure of success in a debate was truth's emergence — regardless of whose mouth it came from. This orientation made him a formidable opponent and a trustworthy collaborator: he would genuinely adopt an opponent's better position."
+        },
+        {
+          "id": "sh-so-02",
+          "title": "His Correspondence Across the Islamic World",
+          "source": "Siyar A'lam al-Nubala 10:28 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Al-Shafi'i (RH) maintained extensive correspondence with scholars across Iraq, the Hijaz, and later Egypt. He would respond to questions sent to him in letters with the same care he gave to in-person questions. He said: The pen of a scholar reaches where his feet cannot.",
+          "context": "He understood written transmission as an extension of oral scholarship. His books — especially al-Risala — were written for a broader audience than his circles could contain. He deployed the pen as a tool of reach."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "sh-sp-01",
+          "title": "Completing the Quran Twice Each Day of Ramadan",
+          "source": "Siyar A'lam al-Nubala 10:20 (al-Dhahabi)",
+          "chain": "Historical narration via al-Rabi ibn Sulayman",
+          "content": "Al-Rabi ibn Sulayman (RH), the student of al-Shafi'i (RH), reported: In the month of Ramadan, al-Shafi'i used to complete the Quran sixty times — twice a day every day of the month. He recited in prayer and outside of prayer.",
+          "context": "Sixty completions in thirty days. This is sustained Quran recitation as a form of devotional life. Whatever the precise count, what is agreed upon is that al-Shafi'i's Ramadan was a month of intense, daily Quran recitation that dwarfed his ordinary practice."
+        },
+        {
+          "id": "sh-sp-02",
+          "title": "His Saying on Purifying the Heart",
+          "source": "Diwan al-Shafi'i / Siyar A'lam al-Nubala 10:23",
+          "chain": "Attributed to al-Shafi'i (RH)",
+          "content": "Al-Shafi'i (RH) said: Purify your heart before you speak of knowledge, for a word said from a sick heart infects those who receive it. The scholars are physicians of souls — a physician who is himself ill may spread his illness to his patients.",
+          "context": "He applied a medical metaphor to scholarly transmission: the ill physician spreads illness. A scholar whose heart is corrupted by arrogance, love of status, or worldly desire transmits that corruption alongside the knowledge. Internal purification is prerequisite to beneficial teaching."
+        }
+      ],
+      "private": [
+        {
+          "id": "sh-pr-01",
+          "title": "Dividing His Night in Three",
+          "source": "Siyar A'lam al-Nubala 10:19 (al-Dhahabi)",
+          "chain": "Historical narration via al-Rabi ibn Sulayman",
+          "content": "Al-Rabi ibn Sulayman (RH) narrated: Al-Shafi'i divided his night into three parts: one third for knowledge and writing, one third for prayer, and one third for sleep.",
+          "context": "A structured night: writing until the middle of the night, then prayer, then sleep before dawn. This disciplined allocation of the night hours explains how he was able to write the volume he wrote — al-Risala, al-Umm, and other major works — while also maintaining his prayer and his rest."
+        },
+        {
+          "id": "sh-pr-02",
+          "title": "His Humility in Egypt",
+          "source": "Siyar A'lam al-Nubala 10:31 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "When al-Shafi'i (RH) arrived in Egypt in the last years of his life, he revised many of his earlier positions based on what he found in Egypt — different customs, different circumstances, different hadith collections. He produced what scholars call the 'new school' (al-madhhab al-jadid), superseding much of his Baghdad teaching. He said: What I said in Iraq might not be what I say in Egypt — for knowledge grows with the changing of places.",
+          "context": "He was willing to revise his own work based on new evidence and new contexts. A man who had already achieved world-historical scholarly standing continued learning, continued revising, and produced a second body of legal opinion that corrected his first. This is intellectual humility in its most mature form."
+        }
+      ]
+    }
+  },
+  {
+    "id": "sufyan-al-thawri",
+    "slug": "sufyan-al-thawri",
+    "name": "Sufyan al-Thawri (RH)",
+    "title": "Amir al-Mu'minin fi al-Hadith — Commander of the Faithful in Hadith",
+    "years": "716–778 CE",
+    "bio": "Sufyan ibn Sa'id al-Thawri (RH) was one of the greatest hadith scholars, jurists, and ascetics of the early Islamic period. Born in Kufa, he was accorded the title 'Commander of the Faithful in Hadith' — a title shared by very few. He refused all positions offered by Abbasid caliphs and went into hiding to avoid being appointed as a judge, considering judicial service under unjust rulers to be a threat to his deen. His asceticism was legendary and his hadith scholarship unparalleled in his time.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "st-sh-01",
+          "title": "His Fear of Recognition",
+          "source": "Hilyat al-Awliya 6:361 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "Sufyan al-Thawri (RH) said: I am afraid that I am known in heaven as one who is corrupted and known on earth as one who is pious — and this is the worst of all combinations. He deliberately avoided situations where his reputation might grow, saying: I would rather be unknown in this world and known to Allah than known in this world and unknown to Allah.",
+          "context": "He feared the divergence between public reputation and private reality. Not hypocrisy in behavior — but the fear that his recognition in the world might outpace his standing before Allah. He preferred invisibility."
+        },
+        {
+          "id": "st-sh-02",
+          "title": "His Consistent Simplicity of Dress",
+          "source": "Hilyat al-Awliya 6:365 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Sufyan al-Thawri (RH) wore the same woolen garment for an extended period, patching it as it wore. When someone brought him a new garment, he refused it, saying: This one still covers me. I am afraid of becoming attached to clothes — for the one who becomes attached to fine cloth becomes attached to the world that produces it.",
+          "context": "He described a chain of attachment: fine cloth leads to attachment to the world that produces it. He was tracing the psychological mechanism of how comfort becomes dependency. His worn garment was a conscious severing of that chain."
+        }
+      ],
+      "trade": [
+        {
+          "id": "st-tr-01",
+          "title": "On Lawful Earning as Protection",
+          "source": "Hilyat al-Awliya 6:382 (Abu Nu'aym)",
+          "chain": "Attributed to Sufyan al-Thawri (RH)",
+          "content": "Sufyan al-Thawri (RH) said: In this age, money is the Muslim's weapon. The one without money in this age is like a warrior without a sword — he can be killed or taken captive. Seeking lawful money is not worldliness; it is protection of your deen.",
+          "context": "This is a defense of lawful earning from one of the great ascetics — which makes it more valuable than the same statement from someone indifferent to the world. He was not worldly, and precisely because he was not worldly, he could see clearly that without lawful income, one becomes vulnerable to corruption."
+        },
+        {
+          "id": "st-tr-02",
+          "title": "Warning Against Gifts from Rulers",
+          "source": "Hilyat al-Awliya 6:370 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "Sufyan al-Thawri (RH) consistently refused gifts from rulers and governors, saying: A dirham from a ruler is worse for me than thirty from other sources — because their dirham comes with a chain. He said he had seen scholars become compromised because they accepted gifts: first a gift, then a favor, then a ruling skewed in the giver's direction.",
+          "context": "He mapped the mechanism of corruption: gift → favor → compromised ruling. He refused step one to prevent steps two and three. His refusal of gifts was not poverty — it was structural protection of his independence."
+        }
+      ],
+      "family": [
+        {
+          "id": "st-fa-01",
+          "title": "His Advice to His Mother",
+          "source": "Hilyat al-Awliya 6:375 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "Sufyan al-Thawri's (RH) mother is reported to have told him to seek knowledge, saying: I will support you with my own spinning. He narrated this and said: She worked with her hands so I could sit with the scholars. Every knowledge I have is on her account. When she died he wept and said: Who will make du'a for me now as she did?",
+          "context": "His mother's du'a was identified as a specific spiritual support — something irreplaceable. He knew that his scholarship was held up by her prayers and her labor. When she died, his grief was partly the grief of losing his intercessor before Allah."
+        },
+        {
+          "id": "st-fa-02",
+          "title": "On the Rights of Parents",
+          "source": "Hilyat al-Awliya 6:377 (Abu Nu'aym)",
+          "chain": "Attributed to Sufyan al-Thawri (RH)",
+          "content": "Sufyan al-Thawri (RH) said: Whoever pleases his parents in the morning and evening has completed two units of prayer that he will not find replaced by anything. And whoever angers his parents has built a fire in his home that will not be extinguished easily.",
+          "context": "He measured pleasing parents against prayer itself — not to diminish prayer but to elevate the act of honoring parents to an equivalent spiritual status. The daily morning and evening relationship with one's parents has the weight of sustained worship."
+        }
+      ],
+      "social": [
+        {
+          "id": "st-so-01",
+          "title": "Going Into Hiding to Avoid the Caliphs",
+          "source": "Siyar A'lam al-Nubala 7:236 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "When the Abbasid Caliph al-Mahdi sought to appoint Sufyan al-Thawri (RH) as a judge, Sufyan went into hiding and traveled between different cities to avoid being found. He said: I run from my own knowledge. If I sit as a judge I will be corrupted within three days. He died in hiding in Basra in 161 AH.",
+          "context": "He ran from his own authority. He knew that the position of judge would expose him to pressures he feared he could not withstand. His running was not cowardice — it was an honest self-assessment. He knew what he was and what the position required, and he judged the gap unbridgeable."
+        },
+        {
+          "id": "st-so-02",
+          "title": "His Generosity to Students Despite His Poverty",
+          "source": "Hilyat al-Awliya 6:368 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "Despite living in deliberate poverty, Sufyan al-Thawri (RH) was generous to students of knowledge who came to him. He would share whatever food he had, and when he had nothing, he would walk to those who had food and bring it back for his students. He said: The one who comes seeking knowledge is a guest of the religion, not merely a guest of mine.",
+          "context": "Students were guests of the religion. That framing elevated his obligation to host them beyond mere courtesy — it was a religious duty. And so he walked to get food for them when he had none himself."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "st-sp-01",
+          "title": "His Weeping When Hadith Was Recited",
+          "source": "Hilyat al-Awliya 6:371 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "It is narrated that when Sufyan al-Thawri (RH) heard the hadiths of the Prophet ﷺ about the Hereafter — the grave, the resurrection, the account — he would weep. He said: I fear that I have transmitted the words of the Messenger ﷺ as a professional transmits poetry — hearing without feeling. May Allah not make me one who carries knowledge without it carrying him.",
+          "context": "He feared transmission without transformation. He could say the hadith correctly in its chain and text and still fear that it had passed through him without effect, like water through a pipe. He prayed not to be a conduit for knowledge that did not change him."
+        },
+        {
+          "id": "st-sp-02",
+          "title": "His Intense Night Prayer",
+          "source": "Hilyat al-Awliya 6:372 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "Those who traveled with Sufyan al-Thawri (RH) reported that he rarely slept during the nights of Ramadan, spending them in prayer and Quran recitation. He said: Sleep is a mercy from Allah. I take what I need and leave the rest of the night for its real purpose.",
+          "context": "He defined sleep precisely: the mercy of Allah, taken in the necessary amount. The night was not primarily for sleep — it had a real purpose. He took the minimum sleep to maintain his function and dedicated the rest to prayer."
+        }
+      ],
+      "private": [
+        {
+          "id": "st-pr-01",
+          "title": "His Fear About His Own Sincerity",
+          "source": "Hilyat al-Awliya 6:366 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "Sufyan al-Thawri (RH) said: Nothing is harder for me to treat than my own intention. It shifts. I correct it and it shifts again. He also said: I have not been tested with anything heavier than the problem of sincerity. He considered the purification of intention the most difficult of all spiritual disciplines.",
+          "context": "He named intention as harder than asceticism, harder than knowledge, harder than worship. You can control your actions more easily than you can control the motive behind them. The shifting of intention he described is the experience of every honest person who examines their own motives closely."
+        },
+        {
+          "id": "st-pr-02",
+          "title": "His Last Illness and Words",
+          "source": "Siyar A'lam al-Nubala 7:241 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "In his final illness in Basra, Sufyan al-Thawri (RH) was asked: What is your hope? He said: I hope in the mercy of a Lord I have not served as He deserves. When he died, those who were present reported that his face was calm. He was sixty-one years old.",
+          "context": "Hope in the mercy of One he had not adequately served. This is the final word of a man who spent his life in scholarship, asceticism, and devotion — and who went to his Lord not with a list of achievements but with hope in divine mercy. It is the correct posture."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ibn-al-mubarak",
+    "slug": "ibn-al-mubarak",
+    "name": "Abdullah ibn al-Mubarak (RH)",
+    "title": "Amir al-Mu'minin fi al-Hadith — Scholar, Merchant, and Warrior",
+    "years": "736–797 CE",
+    "bio": "Abdullah ibn al-Mubarak (RH) was one of the most remarkable figures in Islamic history — simultaneously a foremost hadith scholar, a successful merchant, a poet of elegance, and a mujahid who participated in expeditions on the Byzantine frontier every summer. He traveled the entire Islamic world for knowledge and spent lavishly on students and scholars. Al-Dhahabi called him 'the scholar of the East and the West.' He combined qualities that most considered incompatible: worldly success and complete otherworldliness.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "im-sh-01",
+          "title": "His Combination of Seemingly Opposite Qualities",
+          "source": "Siyar A'lam al-Nubala 8:378 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Al-Dhahabi said of Ibn al-Mubarak (RH): He combined in himself qualities that are rarely found together: hadith, fiqh, Arabic, asceticism, poetry, generosity, commerce, courage, and the jihad of the frontier — in all of these he was preeminent. He was of Turkish descent, born in Khurasan, and his scholarship extended from Makkah to China.",
+          "context": "The scholar-warrior-merchant is not a modern archetype — it is the classical Islamic archetype embodied by Ibn al-Mubarak more fully than almost anyone. He proved that scholarship and commerce and military service were not alternatives but expressions of the same complete character."
+        },
+        {
+          "id": "im-sh-02",
+          "title": "His Letter to Sufyan al-Thawri",
+          "source": "Hilyat al-Awliya 8:163 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "Ibn al-Mubarak (RH) wrote to his friend Sufyan al-Thawri (RH), who had chosen withdrawal from the world: O servant of the two sacred mosques — if you could see us, you would know that you are only playing at worship. We are the ones who have soaked our saddles with blood and sweat on the frontier, while you have applied kohl to your eyes in devotion at home.",
+          "context": "He was defending the legitimacy of active engagement with the world — trade, travel, warfare — as forms of worship alongside the mosque-based devotion of scholars who withdrew. He was not attacking Sufyan's choice but asserting the equal spiritual dignity of his own."
+        }
+      ],
+      "trade": [
+        {
+          "id": "im-tr-01",
+          "title": "Funding Scholars from His Trade",
+          "source": "Siyar A'lam al-Nubala 8:381 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Ibn al-Mubarak (RH) was a successful merchant in Khurasan who used his wealth to support scholars and students of hadith throughout the Islamic world. He would travel for trade and simultaneously travel for knowledge, combining the two journeys. He is reported to have spent one hundred thousand dirhams on students during his lifetime.",
+          "context": "He made trade the instrument of scholarship — earning money and immediately putting it in service of knowledge transmission. His commercial success and his scholarly patronage were not separate activities but one integrated life project."
+        },
+        {
+          "id": "im-tr-02",
+          "title": "His Standard for Lawful Earnings",
+          "source": "Siyar A'lam al-Nubala 8:386 (al-Dhahabi)",
+          "chain": "Attributed to Ibn al-Mubarak (RH)",
+          "content": "Ibn al-Mubarak (RH) said: Seeking a lawful income is a duty on every Muslim, and I prefer a single dirham earned through trade to ten dirhams given to me. Earning gives you independence; receiving creates obligation. The independent scholar speaks more freely than the supported one.",
+          "context": "He valued the dirham from trade over the gift — not for the money but for what it represented: independence. He had experienced both and found that earned money gave him the freedom to speak without owing anything to anyone. His scholarly credibility was partially maintained by his financial independence."
+        }
+      ],
+      "family": [
+        {
+          "id": "im-fa-01",
+          "title": "His Care for His Family Between Journeys",
+          "source": "Siyar A'lam al-Nubala 8:384 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Ibn al-Mubarak (RH) was a man of constant travel — for trade, for knowledge, and for the frontier. Those who knew him reported that he was generous to his family between his journeys and made provisions for them before departing. He said: The traveler who neglects his family is not praiseworthy for his travel — he has transferred his burden to those who cannot carry it.",
+          "context": "He held travelers accountable for the families they left behind. Travel is not an excuse for neglect. Provision for the family before departure, and generosity when present — this was his model of the responsible itinerant scholar."
+        },
+        {
+          "id": "im-fa-02",
+          "title": "His Affection for His Teachers as Family",
+          "source": "Siyar A'lam al-Nubala 8:380 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Ibn al-Mubarak (RH) spoke of his teachers with deep affection and spent generously on them. He said of Sufyan al-Thawri (RH): If I had a wish with Allah, I would spend it asking that Sufyan be permitted into paradise. For what he gave me is beyond money.",
+          "context": "He would spend a wish — his one intercession — on his teacher. The knowledge Sufyan gave him was beyond money in his estimation, and so the gratitude he felt was beyond what any financial gift could express. Teacher-student relationships carried the weight of family bonds for him."
+        }
+      ],
+      "social": [
+        {
+          "id": "im-so-01",
+          "title": "His Generosity to Companions on Journeys",
+          "source": "Siyar A'lam al-Nubala 8:382 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Ibn al-Mubarak (RH) would travel with companions and spend on them so generously that they felt no need for their own provisions. He said: When I travel with people, I take an amount to cover all of us. If I am with them, I spend on them. If I am separated from them, each of us returns to what he has.",
+          "context": "He traveled in a circle of generosity — taking enough for everyone and spending freely. He did not calculate shares or split costs. When he was the wealthiest in the party, everyone in the party benefited. This is the etiquette of the wealthy traveler."
+        },
+        {
+          "id": "im-so-02",
+          "title": "His Reputation Across the Islamic World",
+          "source": "Siyar A'lam al-Nubala 8:376 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "When Ibn al-Mubarak (RH) traveled from Khurasan to the Hijaz, to Iraq, to the Syrian frontier, scholars in every city would come out to meet him. Al-Dhahabi narrated that when he arrived in a city, its scholars gathered as if for a festival. He was known equally as a hadith scholar, as a man of combat, and as a man of wealth — and each of these communities claimed him as one of their own.",
+          "context": "He was claimed by multiple communities because he genuinely belonged to each: the scholars, the warriors, the merchants. He had not chosen one identity at the expense of the others but lived all of them simultaneously and fully."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "im-sp-01",
+          "title": "His Definition of True Zuhd",
+          "source": "Hilyat al-Awliya 8:167 (Abu Nu'aym)",
+          "chain": "Attributed to Ibn al-Mubarak (RH)",
+          "content": "Ibn al-Mubarak (RH) was asked to define zuhd (asceticism). He said: Zuhd is to trust in what is with Allah more than you trust in what is in your own hand. It is not to wear rough wool and eat coarse bread while secretly looking down on others who have more than you.",
+          "context": "He redefined asceticism from an external practice to an internal orientation. Wearing rough cloth while feeling superiority toward those with softer cloth is not zuhd — it is zuhd's costume. Real zuhd is trust: trusting that Allah's provision is coming, regardless of what is in your hand now."
+        },
+        {
+          "id": "im-sp-02",
+          "title": "His Night Prayer During the Military Campaigns",
+          "source": "Siyar A'lam al-Nubala 8:388 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Those who accompanied Ibn al-Mubarak (RH) on his summer campaigns to the Byzantine frontier reported that he was different from other soldiers in his nights. While the soldiers rested, he would spend large portions of the night in prayer. He said: I come to the frontier because I love Allah. If I came only for adventure, I would have stopped long ago.",
+          "context": "The warrior's nights were the worshiper's nights. He had not chosen between the active life and the spiritual life — he brought the spiritual life into the active one. His motive for jihad was stated clearly: love of Allah, not adventure or glory."
+        }
+      ],
+      "private": [
+        {
+          "id": "im-pr-01",
+          "title": "His Anonymity in Public",
+          "source": "Siyar A'lam al-Nubala 8:389 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Despite his fame, Ibn al-Mubarak (RH) is reported to have traveled under assumed names on some journeys to avoid being recognized and treated with deference. He said: The one who is treated with reverence he did not earn is tested in a way he cannot see. I prefer the anonymity of the crowd to the spotlight of reputation.",
+          "context": "He disguised himself to avoid being known. Fame, for him, was not an aspiration but a test — a test of whether deference given by others would corrupt the humility he had built over decades. He avoided it by avoiding recognition."
+        },
+        {
+          "id": "im-pr-02",
+          "title": "His Death on the Road",
+          "source": "Siyar A'lam al-Nubala 8:391 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Abdullah ibn al-Mubarak (RH) died in Hit, on the Euphrates river, in 181 AH while returning from a military campaign. He was sixty-one years old. Those who were with him reported that his last words were the shahada. It is said that when the news reached Khurasan, the scholars and the merchants and the soldiers all wept.",
+          "context": "He died on the road, returning from the frontier. Not in a scholar's study, not in a merchant's house — on the road, between campaigns, moving as he had always moved. His death was consistent with his life: in motion, in service, between the roles that together made him whole."
+        }
+      ]
+    }
+  },
+  {
+    "id": "imam-ahmad",
+    "slug": "imam-ahmad",
+    "name": "Imam Ahmad ibn Hanbal (RH)",
+    "title": "Imam Ahl al-Sunnah — Imam of the People of the Sunnah",
+    "years": "780–855 CE",
+    "bio": "Ahmad ibn Muhammad ibn Hanbal (RH) was the founder of the Hanbali school of jurisprudence and one of the greatest hadith scholars in Islamic history, reportedly memorizing over one million hadiths. His defining trial was the Mihna — the Mu'tazilite inquisition — during which the Abbasid caliphs al-Ma'mun, al-Mu'tasim, and al-Wathiq demanded that scholars declare the Quran to be created. Ahmad refused across multiple caliphates, was imprisoned, flogged, and chained, yet never yielded. His endurance became the model of scholarly courage for all subsequent generations.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "ia-sh-01",
+          "title": "His Physical Appearance and Bearing",
+          "source": "Siyar A'lam al-Nubala 11:183 (al-Dhahabi)",
+          "chain": "Historical narration via Salih ibn Ahmad",
+          "content": "Salih ibn Ahmad ibn Hanbal described his father: He was of medium height with a dark complexion. His beard was thick and black, turning white only in his final years. He walked with his head slightly bowed and his eyes cast downward — never letting his gaze wander. He dressed simply, wearing a cotton garment and a head covering, and I never saw him wearing anything extravagant.",
+          "context": "His son's description gives us the physical portrait of a man turned inward — head bowed, gaze downward. Not from shyness but from a sustained orientation toward Allah that made looking at the world a less interesting occupation than looking within."
+        },
+        {
+          "id": "ia-sh-02",
+          "title": "His Endurance During the Mihna",
+          "source": "Siyar A'lam al-Nubala 11:240 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "During the Mihna, Imam Ahmad (RH) was brought before the Caliph al-Mu'tasim and debated by the scholars who supported the Mu'tazilite position. He was then flogged severely and fell unconscious. When he regained consciousness, he found himself still chained and refused to recant. He said afterward: When the flogging was occurring, I was reminded of the hadith that whoever is patient through a trial will be rewarded. I focused on that hadith and the pain became lighter.",
+          "context": "He had a hadith to hold during the flogging. The preparation of decades of memorization meant that in the moment of greatest pain, a relevant word of the Prophet ﷺ was available. This is what memorization is for — not academic performance, but provision for extreme moments."
+        }
+      ],
+      "trade": [
+        {
+          "id": "ia-tr-01",
+          "title": "Supporting Himself Through Work",
+          "source": "Siyar A'lam al-Nubala 11:196 (al-Dhahabi)",
+          "chain": "Historical narration via Salih ibn Ahmad",
+          "content": "Salih ibn Ahmad narrated: My father used to hire out for agricultural work when money was scarce, and he would carry heavy loads to earn. He refused to accept money from his students and refused gifts from rulers. He said: I will work with these hands before I accept money that obligates me to anyone.",
+          "context": "The Imam of Ahl al-Sunnah carried loads and did agricultural work to maintain his independence. His scholarship was not for income. His scholarship was for Allah — and he maintained its sincerity by ensuring he owed nothing to anyone for the roof over his head."
+        },
+        {
+          "id": "ia-tr-02",
+          "title": "Refusing All Gifts from the Caliph After the Mihna",
+          "source": "Siyar A'lam al-Nubala 11:247 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "After the Mihna ended with the death of al-Wathiq and the accession of al-Mutawakkil — who supported the traditional position on the Quran — the new Caliph sent Imam Ahmad (RH) generous gifts of money to compensate for his suffering. Ahmad refused every gift, saying: I cannot take from the source that was the source of my suffering. The money in this treasury passed through hands that harmed the scholars of Islam.",
+          "context": "He refused reparations. He had been flogged, imprisoned, and humiliated — and when the succeeding caliph tried to make amends with money, Ahmad refused. His objection was not to the new caliph personally but to the treasury that the previous caliphs had used to oppress. He would not take from it."
+        }
+      ],
+      "family": [
+        {
+          "id": "ia-fa-01",
+          "title": "His Tenderness with His Children",
+          "source": "Siyar A'lam al-Nubala 11:201 (al-Dhahabi)",
+          "chain": "Narrated by Salih ibn Ahmad (RH)",
+          "content": "Salih ibn Ahmad narrated: My father was gentle with us as children. He would play with us and not scold us harshly. When I made a mistake in my lessons, he would correct me quietly and ask me to try again. He never shouted at me in my memory. He used to say: A child who grows up afraid of his father will seek knowledge only to please his father — not for its own sake.",
+          "context": "He identified fear of the father as an obstacle to genuine learning. A child who studies to please the father has the wrong motivation — when the father dies or is no longer watching, the studying will stop. He wanted intrinsic motivation, and he cultivated it by being safe rather than frightening."
+        },
+        {
+          "id": "ia-fa-02",
+          "title": "His Grief at the Death of His Wife",
+          "source": "Siyar A'lam al-Nubala 11:202 (al-Dhahabi)",
+          "chain": "Narrated by Salih ibn Ahmad (RH)",
+          "content": "When Ahmad ibn Hanbal's (RH) first wife Abbasa died, he was devastated. He said to his son: I have been married to your mother for twenty years and I cannot remember a single quarrel between us. She died and we had never exchanged a harsh word. Salih said: I do not remember my father laughing heartily after she died.",
+          "context": "Twenty years of marriage without a harsh word. He said this not as boasting but as grief — what was lost could be measured by how it had been. And the son's observation is the most poignant detail: his father's laughter never returned in full after her death."
+        }
+      ],
+      "social": [
+        {
+          "id": "ia-so-01",
+          "title": "The People's Response to His Death",
+          "source": "Siyar A'lam al-Nubala 11:297 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "When Imam Ahmad ibn Hanbal (RH) died in Baghdad in 241 AH, the response of the city was without precedent in Islamic history. Estimates of the funeral gathering range from several hundred thousand to over a million — historians differ on the exact number but agree it was extraordinary. People came from regions far from Baghdad. The caliph himself honored the occasion.",
+          "context": "A man who had spent his life refusing the attention of caliphs received, at his death, the attention of an entire civilization. He had not sought fame; fame had been the natural consequence of a life so clearly lived for Allah that everyone could see it and wanted to be near it."
+        },
+        {
+          "id": "ia-so-02",
+          "title": "His Accessibility to the Poor and the Unknown",
+          "source": "Siyar A'lam al-Nubala 11:213 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Despite his immense reputation, Imam Ahmad (RH) was known to be accessible to ordinary people — poor questioners, simple craftsmen, women with legal questions. He did not make people wait long and did not make them feel their question was beneath him. He said: The one who closes his door to ordinary people has closed it to the sunnah of the Prophet ﷺ.",
+          "context": "He kept his door open to the unknown and the poor specifically. He framed this as a sunnah issue: the Prophet ﷺ did not have selective accessibility. He was available. Ahmad made his accessibility a replication of the Prophet's ﷺ model."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "ia-sp-01",
+          "title": "His Night Prayer Across Decades",
+          "source": "Siyar A'lam al-Nubala 11:217 (al-Dhahabi)",
+          "chain": "Narrated by Salih ibn Ahmad (RH)",
+          "content": "Salih ibn Ahmad narrated: My father prayed three hundred rak'ahs every day and night. When he was flogged in the Mihna and became ill, he reduced this to one hundred and fifty. Even when he was very old, he maintained this. He would say: This is not because of its quantity — it is because I fear to sleep when I could be awake before Allah.",
+          "context": "Three hundred rak'ahs per day. Reduced to one hundred and fifty only after being flogged nearly to death. The number is almost incomprehensible — but his explanation is more important than the number: he feared missing the opportunity to be before Allah while he was still capable."
+        },
+        {
+          "id": "ia-sp-02",
+          "title": "His Response During the Flogging: A Hadith on His Lips",
+          "source": "Siyar A'lam al-Nubala 11:242 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "During the flogging in the Mihna, witnesses reported that Ahmad ibn Hanbal (RH) was seen moving his lips throughout. When they asked him afterward what he had been saying, he told them: I was repeating the hadith of the Prophet ﷺ — that no Muslim is afflicted with fatigue, illness, grief, sadness, hurt, or distress, even the prick of a thorn, except that Allah expiates his sins by it.",
+          "context": "He used the pain of the flogging as an occasion for hadith recitation and hope in divine reward. The preparation of a lifetime of memorization meant that in the worst moment of his life, the words of the Prophet ﷺ were immediately available. Memorization is not archive — it is armament."
+        }
+      ],
+      "private": [
+        {
+          "id": "ia-pr-01",
+          "title": "His Simple Clothing and Food",
+          "source": "Siyar A'lam al-Nubala 11:195 (al-Dhahabi)",
+          "chain": "Narrated by Salih ibn Ahmad (RH)",
+          "content": "Salih ibn Ahmad narrated: My father used to eat plain bread and salt. He rarely ate meat except on Fridays. He wore a single cotton garment in summer and a woolen one in winter, and he owned no luxuries in his house. After the Mihna, when people sent him gifts, he returned them. He said: If I accept this, I have accepted a price for what I went through — and what I went through was for Allah, not for money.",
+          "context": "He refused compensation for his suffering because his suffering had been for Allah, not for any worldly return. Accepting money for it would have diminished it — given it a worldly price tag. He preferred to keep the full spiritual value of what he had endured."
+        },
+        {
+          "id": "ia-pr-02",
+          "title": "His Last Night and Final Words",
+          "source": "Siyar A'lam al-Nubala 11:291 (al-Dhahabi)",
+          "chain": "Narrated by Salih ibn Ahmad (RH)",
+          "content": "On the last night of his life, Imam Ahmad ibn Hanbal (RH) began to sweat profusely. He asked those around him to wipe his face. Then he said: Not yet. Not yet. Those present thought he was speaking to the Angel of Death. Then he raised his finger in the shahada and passed away. He was seventy-seven years old.",
+          "context": "Not yet — twice. The man who had endured the Mihna without yielding seems to have been negotiating with something unseen in his final moments. Perhaps he was asking for more time for prayer. Perhaps he was saying something we cannot know. His finger raised in the shahada was the last statement of a life that had been one long shahada."
+        }
+      ]
+    }
+  }
+]

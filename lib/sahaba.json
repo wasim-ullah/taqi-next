@@ -1,0 +1,592 @@
+[
+  {
+    "id": "abu-bakr",
+    "slug": "abu-bakr",
+    "name": "Abu Bakr al-Siddiq (RA)",
+    "title": "Al-Siddiq — The Truthful",
+    "years": "573–634 CE",
+    "bio": "Abu Bakr Abdullah ibn Abi Quhafah (RA) was the closest companion of the Prophet ﷺ and the first Caliph of Islam. He was among the very first to embrace Islam and accompanied the Prophet ﷺ in the cave during the Hijra. Known for his boundless generosity, his profound sensitivity to Quran recitation, and his unwavering faith during every crisis the early Muslim community faced.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "ab-sh-01",
+          "title": "His Weeping at Quran Recitation",
+          "source": "Sahih Bukhari 3905",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Abu Bakr (RA) was a man who wept abundantly and could not restrain his tears when he recited the Quran. When the Prophet ﷺ was ill and appointed him to lead the prayers, Umar (RA) led the prayer one day in his absence. The Prophet ﷺ heard Umar's voice and said: Where is Abu Bakr? Allah and the believers refuse anyone other than Abu Bakr. So Abu Bakr was brought forward and he led the prayer while weeping, the people in rows behind him.",
+          "context": "His tears during Quran recitation were so consistent that the Makkans considered them a concern — they feared his open weeping would attract curious women and children to the new faith. His emotional response to the words of Allah was not performance but an involuntary overflow of a deeply moved heart."
+        },
+        {
+          "id": "ab-sh-02",
+          "title": "His Slender Build and Delicate Frame",
+          "source": "Sahih Bukhari 3661",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Aisha (RA) described Abu Bakr as a lean man with a delicate frame, a thin beard, sunken eyes, and a slightly stooped posture. His face was thin and his cheeks were not full. When he stood up straight, his wrapper would fall from around his waist.",
+          "context": "Physical description in the tradition is not vanity — it helps us see the person whole. The man who held the Muslim world together in its most perilous hour after the Prophet's ﷺ death was a slight, lean, elderly man moved to tears by the Quran."
+        }
+      ],
+      "trade": [
+        {
+          "id": "ab-tr-01",
+          "title": "Returning Earnings He Was Unsure About",
+          "source": "Sahih Bukhari 3842",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Abu Bakr had a servant who used to give him a portion of his earnings. One day the servant brought something and Abu Bakr ate from it. The servant then said: Do you know what that was? Abu Bakr said: What? He said: I had done something for someone in the days of Jahiliyyah which I was not qualified for, and they gave me this for it. Abu Bakr immediately put his hand in his throat and vomited everything that was in his stomach.",
+          "context": "He ate from unknown earnings and when the source turned out to be doubtful, he did not rationalize it or call the matter settled. He vomited the food. This is scrupulousness (wara') at its most visceral — a standard few reach, but a model worth knowing."
+        },
+        {
+          "id": "ab-tr-02",
+          "title": "Freeing Slaves with His Wealth",
+          "source": "Sahih Bukhari 3911",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Abu Bakr (RA) spent his wealth in the way of Allah to free Muslim slaves who were being tortured by the polytheists. Bilal ibn Rabah (RA) was among those he purchased and freed. His father Abu Quhafah said to him: O my son, I see that you free the weak ones. If you want to free slaves, why not free those who are strong and can defend you? Abu Bakr said: O my father, I only want what is with Allah.",
+          "context": "He freed the weakest and most vulnerable — not those who could benefit him in return. The market logic of his father (free someone who can protect you) was the opposite of Abu Bakr's spiritual logic: I want what is with Allah alone."
+        }
+      ],
+      "family": [
+        {
+          "id": "ab-fa-01",
+          "title": "His Kindness to His Aged Father",
+          "source": "Sahih Bukhari 4085",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "When the Prophet ﷺ conquered Makkah, Abu Bakr (RA) brought his elderly father Abu Quhafah to take the pledge of allegiance. Abu Quhafah's hair and beard were white as mughrah (a white plant). The Prophet ﷺ said: Why did you trouble this elderly man? You could have left him and I would have come to him. Abu Bakr said: No, O Messenger of Allah, it is more appropriate that he come to you.",
+          "context": "Even in the joy of conquest and acceptance, Abu Bakr thought of his father's dignity. He wanted his father to receive the honor of pledging to the Prophet ﷺ directly, even at the cost of bringing an old man through a crowd."
+        },
+        {
+          "id": "ab-fa-02",
+          "title": "Supporting His Household During the Hijra",
+          "source": "Sahih Bukhari 2138",
+          "chain": "Narrated by Asma bint Abi Bakr (RA)",
+          "content": "When the Prophet ﷺ and Abu Bakr (RA) emigrated, Abu Bakr took all his wealth with him — about five or six thousand dirhams. My grandfather Abu Quhafah came to us and said: He has left you poor in addition to leaving you without himself. I said: No, grandfather, he has left us with abundant good. Then I placed stones in the niche where he used to keep his money and covered them with a cloth, and I took my grandfather's hand and placed it on them. He said: It is alright if he has left you this. But in truth there was nothing there — I had only done this to comfort the old man.",
+          "content": "Asma's gentle deception of her blind grandfather — placing stones to give the impression wealth remained — is a small act of enormous love. It speaks to a family under extreme pressure maintaining composure, protecting the vulnerable, and trusting in Allah for what came next."
+        }
+      ],
+      "social": [
+        {
+          "id": "ab-so-01",
+          "title": "Carrying Milk for the Poor of Madinah",
+          "source": "Muwatta Imam Malik 2:994",
+          "chain": "Narrated by Ibn Shihab al-Zuhri",
+          "content": "After Abu Bakr (RA) became Caliph, it is narrated that he used to go in the mornings to the outskirts of Madinah with a vessel of milk for the poor and the orphans and the widows. Umar (RA) once observed him doing this before he knew who he was, and after learning it was the Caliph, he realized this was the character of the man who had been chosen.",
+          "context": "Leadership did not change his daily habits. The Caliph of the Muslims walked to the edge of town with milk for widows and orphans — not as a political act but as a continuation of the same character he had always had."
+        },
+        {
+          "id": "ab-so-02",
+          "title": "His First Address as Caliph",
+          "source": "Tarikh al-Tabari 3:210",
+          "chain": "Historical narration via Ibn Hisham",
+          "content": "When Abu Bakr (RA) was made Caliph, he stood before the people and said: O people, I have been appointed over you though I am not the best among you. If I do well, help me. If I do wrong, correct me. Truthfulness is a trust and lying is treachery. The weak among you is strong in my eyes until I give them their due right, Allah willing. The strong among you is weak in my eyes until I take from them what is due, Allah willing. No people abandon jihad in the path of Allah except that Allah strikes them with humiliation. Obey me as long as I obey Allah and His Messenger; if I disobey Allah and His Messenger, you owe me no obedience.",
+          "context": "This is one of the great addresses in human history — a leader taking office by immediately accepting correction, defining his own accountability, and reserving ultimate obedience for Allah alone, not himself."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "ab-sp-01",
+          "title": "His Certainty on the Night of Isra",
+          "source": "Sahih Bukhari 3856",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "When the polytheists came to Abu Bakr (RA) and told him what the Prophet ﷺ had claimed — that he had traveled to Bayt al-Maqdis and back in a single night — Abu Bakr said: If he said that, then he has spoken the truth. They said: You believe he traveled to Bayt al-Maqdis and back in one night? He said: Yes. Indeed I believe him about something even greater than that — I believe him about the news from heaven that comes to him morning and evening. It was for this that he was called al-Siddiq.",
+          "context": "His faith was not based on verification of the verifiable — it was grounded in a deeper trust formed through years of companionship. He had seen enough of the Prophet ﷺ to know that if he said it, it was true. This is the nature of siddiqiyya: faith that does not require proof."
+        },
+        {
+          "id": "ab-sp-02",
+          "title": "His Grief at the Prophet's Death",
+          "source": "Sahih Bukhari 1241",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "When the Prophet ﷺ died, Abu Bakr (RA) entered and uncovered his face, then leaned over and kissed him between his eyes and said: May my father and mother be sacrificed for you. You were good in life and good in death. By the One in Whose Hand is my soul, Allah will never make you taste death twice.",
+          "context": "His composure in the worst moment — when Umar (RA) was outside threatening anyone who said the Prophet had died — came from somewhere beyond human strength. He kissed him, spoke tenderly to him, and then walked out and delivered the address that steadied the entire community."
+        }
+      ],
+      "private": [
+        {
+          "id": "ab-pr-01",
+          "title": "Refusing a Salary as Caliph",
+          "source": "Tarikh al-Tabari 3:227",
+          "chain": "Historical narration",
+          "content": "When Abu Bakr (RA) became Caliph, he continued going to the market to sell cloth as he had always done. Umar ibn al-Khattab (RA) and Abu Ubayda ibn al-Jarrah (RA) met him and said: Where are you going? He said: To the market. They said: Will you do that while you are Caliph? He said: Then who will feed my family? They settled on a modest stipend from the public treasury, enough to meet his basic needs, and he returned what was left over when he died.",
+          "context": "He did not view the caliphate as a source of income or prestige. He wanted to keep working. When a stipend was finally agreed upon, he lived from it modestly and returned the surplus — the model of a servant in public office."
+        },
+        {
+          "id": "ab-pr-02",
+          "title": "His Simple Diet and Dress",
+          "source": "Hilyat al-Awliya 1:28 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Abu Bakr (RA) wore simple garments and ate plain food throughout his life, and that when he died, the only things left from his stipend were a single garment, a milking vessel, and a slave who he had freed. Umar wept when he saw this inventory and said: Abu Bakr has exhausted all who come after him.",
+          "context": "He left almost nothing. The Caliph of the Muslims, who controlled the treasury of a growing state, died with a worn garment and an empty purse. Umar's weeping was an acknowledgment that this standard would be nearly impossible to follow."
+        }
+      ]
+    }
+  },
+  {
+    "id": "umar",
+    "slug": "umar",
+    "name": "Umar ibn al-Khattab (RA)",
+    "title": "Al-Faruq — The Distinguisher of Truth from Falsehood",
+    "years": "584–644 CE",
+    "bio": "Umar ibn al-Khattab (RA) was the second Caliph of Islam, renowned for his extraordinary justice and his fearless pursuit of truth. Before Islam, he was among the fiercest opponents of the Muslims. His conversion strengthened the community immensely — the Prophet ﷺ prayed that Islam be strengthened through either of two Umars, and Allah answered with this one. He expanded the Islamic state to Persia and the Levant while living with legendary personal austerity.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "um-sh-01",
+          "title": "His Commanding Physical Presence",
+          "source": "Sahih Bukhari 3684",
+          "chain": "Narrated by Ibn Umar (RA)",
+          "content": "I have not seen anyone more decisive in speech or more powerful in presence than Umar ibn al-Khattab (RA). He was tall, broad-shouldered, and bald. His complexion was between white and red, and he used to dye his beard with henna. When he walked in a crowd, it was as though he was riding.",
+          "context": "His physical presence was described repeatedly by companions — tall, commanding, with a natural authority that was visible before he spoke. Yet the same man used to carry flour to widows at night and weep in prayer. Power and tenderness coexisted in him."
+        },
+        {
+          "id": "um-sh-02",
+          "title": "His Seriousness and Gravity",
+          "source": "Sahih Bukhari 3690",
+          "chain": "Narrated by Abu Hurayrah (RA)",
+          "content": "The Prophet ﷺ said: While I was sleeping, I saw myself in paradise. I saw a woman performing ablution beside a palace. I asked: Whose palace is this? They said: Umar's. I remembered his sense of honor (ghayrah) and turned away. Umar wept and said: Would I feel protective jealousy around you, O Messenger of Allah?",
+          "context": "The Prophet ﷺ turned away out of respect for Umar's well-known sense of honor and protective jealousy. And Umar's response was immediate tears — not pride, but disbelief that his shortcomings could be overlooked in such a vision."
+        }
+      ],
+      "trade": [
+        {
+          "id": "um-tr-01",
+          "title": "Patrolling the Markets of Madinah",
+          "source": "Musannaf Ibn Abi Shayba 6:463",
+          "chain": "Historical narration via Nafi",
+          "content": "Umar ibn al-Khattab (RA) used to personally walk through the markets of Madinah with a staff in his hand, checking on traders. He would examine weights and measures, question prices, and drive out those who did not know the rules of trade (fiqh al-bay'), saying: None shall sell in our market who does not know its laws, for he will eat from usury whether he knows it or not.",
+          "content": "He did not appoint an inspector — he walked the market himself. And his concern was not just honesty but competence: a trader who does not know the rules of Islamic commerce will inadvertently transgress them. Knowledge of what is lawful is a prerequisite for lawful earning."
+        },
+        {
+          "id": "um-tr-02",
+          "title": "Refusing Public Funds for Personal Use",
+          "source": "Sahih Bukhari 3700",
+          "chain": "Narrated by Ibn Umar (RA)",
+          "content": "Umar (RA) appointed some of his companions to positions and paid them stipends from the public treasury. He himself lived from his own earnings as a trader until his income became insufficient. He then accepted a single daily portion of bread and oil from the public treasury, and when the Muslims' wealth increased, he increased his own portion accordingly — but only to match the most modest free man in Madinah.",
+          "context": "He calibrated his own standard of living to the average Muslim in his care. If they were poor, he was poor. This was not symbolism — he enforced it personally, refusing to take from the public what was not strictly necessary."
+        }
+      ],
+      "family": [
+        {
+          "id": "um-fa-01",
+          "title": "His Daughter Hafsah's Standing Before the Prophet ﷺ",
+          "source": "Sahih Bukhari 5191",
+          "chain": "Narrated by Ibn Umar (RA)",
+          "content": "When Hafsah bint Umar's husband Khunays ibn Hudhafah (RA) died, Umar (RA) offered her in marriage to Uthman ibn Affan (RA), who declined. He then offered her to Abu Bakr (RA), who also remained silent. Umar felt hurt. Then the Prophet ﷺ sent his proposal for Hafsah, and Umar gave her in marriage to him. He later met Abu Bakr, who explained: I only stayed silent because I knew the Prophet ﷺ had mentioned her, and I was not going to disclose his secret.",
+          "context": "The account reveals a father's protectiveness for his widowed daughter, his willingness to seek care for her, and his complete deference when the Prophet ﷺ made his intention known. Even as a powerful figure, Umar navigated family life through the framework of the Prophet's ﷺ example."
+        },
+        {
+          "id": "um-fa-02",
+          "title": "His Acceptance of Correction from His Wife",
+          "source": "Sahih Bukhari 5843",
+          "chain": "Narrated by Ibn Abbas (RA)",
+          "content": "Umar (RA) said: I was thinking about something and my wife said: Why not do such and such? I said to her: What concern is it of yours? She said: How strange of you, O Ibn al-Khattab — you do not want to be consulted, and yet your daughter Hafsah debates with the Messenger of Allah ﷺ until he is upset for the rest of the day. So I went to Hafsah and said: Do not be deceived by the fact that your co-wife is more beautiful than you and more beloved to the Prophet ﷺ.",
+          "context": "Umar — known for his gravity and authority — was corrected by his wife, and he narrated this story himself. He was not embarrassed by it. The same man who commanded armies acknowledged the wisdom in his wife's rebuke and went to act on it."
+        }
+      ],
+      "social": [
+        {
+          "id": "um-so-01",
+          "title": "Carrying Flour to Widows at Night",
+          "source": "Tarikh al-Tabari 3:278",
+          "chain": "Historical narration via Aslam (his freed slave)",
+          "content": "Aslam, the freed slave of Umar (RA), narrated: I accompanied Umar one night as he went around Madinah. He spotted a fire at the edge of town and we approached. There was a woman with a pot over the fire and children crying around her. Umar asked what was wrong. She said: They are hungry and I have nothing — I am boiling water to distract them until they fall asleep. Then I will answer Allah for what I have done to them. Umar left, went to the public storehouse, loaded a sack of flour and a pot of fat on his own back, and refused to let me carry it. He went back, lit the fire himself, cooked, fed the children with his own hand until they were satisfied, then played with them until they laughed. Only then did he leave.",
+          "context": "This was not a delegation or an announcement. He carried the sack on his own back. He cooked. He played with the children. He left without telling the woman who he was. This is a man whose private actions were more impressive than his public ones."
+        },
+        {
+          "id": "um-so-02",
+          "title": "Equal Accountability for All Citizens",
+          "source": "Tarikh al-Tabari 3:292",
+          "chain": "Historical narration",
+          "content": "A man came to Umar (RA) and complained that he had been struck by Amr ibn al-As (RA), the governor of Egypt. Umar summoned Amr ibn al-As and, in front of the complainant, handed the man a stick and said: Strike him as he struck you. Amr said: Are you going to do this to a governor? Umar said: By Allah, we did not appoint him over you to beat you. Strike him.",
+          "context": "The governor of Egypt was publicly made to face retaliation for striking a civilian. This was Umar's justice: the office of governor did not insulate anyone from accountability. The rule of law applied to the ruler as to the ruled."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "um-sp-01",
+          "title": "His Weeping in the Night Prayer",
+          "source": "Siyar A'lam al-Nubala 1:145 (al-Dhahabi)",
+          "chain": "Historical narration via Nafi",
+          "content": "Nafi narrated that Umar ibn al-Khattab (RA) would pray at night until half the night had passed, then wake his family for prayer, then say to them: Al-salah, al-salah — the prayer, the prayer! And he would recite the verse: Command your family to prayer and be steadfast in it. His weeping in prayer was audible to those in the rows behind him.",
+          "context": "The same fearsome Caliph who made governors tremble stood before Allah in the night weeping. There was no contradiction. The awe he inspired in others was a pale reflection of the awe he felt before the One who made him."
+        },
+        {
+          "id": "um-sp-02",
+          "title": "His Fear of Accountability",
+          "source": "Siyar A'lam al-Nubala 1:147 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It was said that Umar ibn al-Khattab (RA) used to press a straw against his chest and say: I wish I were this straw. I wish I had never been created. I wish my mother had not given birth to me. On another occasion he said: If one foot were in paradise and one foot were still outside, I would not feel safe from Allah's plan.",
+          "context": "A man governing an empire that stretched from Persia to Libya stood in private and wished he were a piece of straw. This is not false humility — it is the theological seriousness of a man who understood what it means to be accountable before Allah."
+        }
+      ],
+      "private": [
+        {
+          "id": "um-pr-01",
+          "title": "His Patched Robe as Caliph",
+          "source": "Tarikh al-Tabari 3:225",
+          "chain": "Historical narration via Aslam",
+          "content": "Aslam narrated: Umar ibn al-Khattab (RA) was seen wearing a robe with fourteen patches on it — some of them made from leather. He was Caliph of the Muslims at the time.",
+          "context": "He patched the robe he had. The man who conquered Persia and accepted the keys of Jerusalem wore a coat of patches. This was not asceticism for display — Aslam simply observed it. Umar did not announce his poverty; he just lived it."
+        },
+        {
+          "id": "um-pr-02",
+          "title": "His Simple Meals",
+          "source": "Musannaf Ibn Abi Shayba 7:83",
+          "chain": "Historical narration",
+          "content": "Umar ibn al-Khattab (RA) used to eat bread with oil, and sometimes bread with vinegar. He avoided meat in his meals as a matter of course, saying that Allah has made lawful many things, and if I ate all that is lawful, my belly would leave no room for anything else. He would sometimes fast for days and then eat simple bread and salt.",
+          "context": "His frugality was not deprivation — he could have eaten anything the treasury provided. He chose bread and oil. The governor of the world's largest empire ate the food of the poor to remain in solidarity with those he governed."
+        }
+      ]
+    }
+  },
+  {
+    "id": "uthman",
+    "slug": "uthman",
+    "name": "Uthman ibn Affan (RA)",
+    "title": "Dhul-Nurayn — Possessor of Two Lights",
+    "years": "576–656 CE",
+    "bio": "Uthman ibn Affan (RA) was the third Caliph of Islam, known for his profound modesty, immense generosity, and the compilation of the standardized Quran mushaf. He married two daughters of the Prophet ﷺ in succession — first Ruqayyah, then Umm Kulthum — earning the unique title Dhul-Nurayn (Possessor of Two Lights). His wealth was matched only by his willingness to spend it for Islam.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "ut-sh-01",
+          "title": "The Angels Were Shy Before Him",
+          "source": "Sahih Muslim 2401",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Aisha (RA) narrated: The Messenger of Allah ﷺ was lying down with his thigh or shin uncovered when Abu Bakr asked permission to enter. He was admitted and the Prophet ﷺ remained as he was. Then Umar asked permission to enter. He was admitted and the Prophet ﷺ remained as he was. Then Uthman asked permission to enter, and the Prophet ﷺ sat up and straightened his clothing. After they left, Aisha asked: Why did you not sit up for Abu Bakr or Umar as you did for Uthman? He said: Uthman is a man of great modesty, and I feared that if I remained as I was he would not enter or convey his need. Should I not be shy before one before whom even the angels are shy?",
+          "context": "The Prophet ﷺ adjusted his position out of respect for Uthman's well-known modesty — as if the presence of Uthman's shyness could make even the Prophet ﷺ self-conscious. The angels, it is said, were shy before him for the same reason."
+        },
+        {
+          "id": "ut-sh-02",
+          "title": "His Weeping and Remembrance of Death",
+          "source": "Sunan al-Tirmidhi 2308",
+          "chain": "Narrated by Hani, freed slave of Uthman (RA)",
+          "content": "Uthman ibn Affan (RA) used to weep profusely when standing at a grave. He was asked: You do not weep when paradise and hellfire are mentioned but you weep at a grave? He said: The Messenger of Allah ﷺ said: The grave is the first of the stages of the Hereafter. Whoever passes through it with ease, what comes after is easier. And whoever does not pass through it with ease, what comes after is harder.",
+          "context": "He was not moved by abstract descriptions of heaven and hell — he was moved by the immediacy of standing at an actual grave. The reality of death was not a theological concept to him but a fact he stood beside regularly, and wept."
+        }
+      ],
+      "trade": [
+        {
+          "id": "ut-tr-01",
+          "title": "Buying the Well of Rumah for the Muslims",
+          "source": "Sunan al-Tirmidhi 3699",
+          "chain": "Narrated by Uthman ibn Affan (RA)",
+          "content": "The Prophet ﷺ said: Who will buy the well of Rumah and contribute it to the Muslims, receiving in return something better than it in paradise? Uthman (RA) purchased it for thirty-five thousand dirhams and then opened it to all Muslims, free of charge.",
+          "context": "Madinah had a chronic water problem — a Jewish man owned the only well in the area and charged Muslims for water. Uthman simply bought it and gave it away. This is the Islamic model of philanthropy: using private wealth to solve public problems."
+        },
+        {
+          "id": "ut-tr-02",
+          "title": "Outfitting the Army of Hardship",
+          "source": "Sunan al-Tirmidhi 3700",
+          "chain": "Narrated by Abd al-Rahman ibn Samura (RA)",
+          "content": "When the Prophet ﷺ called for contributions to outfit the Army of Hardship (Jaysh al-Usrah) for the expedition to Tabuk, Uthman (RA) brought three hundred camels fully equipped with saddles and bags, along with one thousand dinars, and placed them in the Prophet's lap. The Prophet ﷺ turned them over in his hands and said: Nothing shall harm Uthman after this day — nothing shall harm Uthman after this day.",
+          "context": "Three hundred camels and one thousand dinars — an extraordinary contribution that paid for a major military expedition. And the Prophet's ﷺ response was not a formal thank you but a declaration of divine protection, the depth of which would only become clear at Uthman's martyrdom decades later."
+        }
+      ],
+      "family": [
+        {
+          "id": "ut-fa-01",
+          "title": "His Grief at the Death of Ruqayyah (RA)",
+          "source": "Sirat Ibn Hisham 3:16",
+          "chain": "Historical narration",
+          "content": "Ruqayyah bint Muhammad (RA), the daughter of the Prophet ﷺ and wife of Uthman (RA), fell ill during the Battle of Badr. Uthman (RA) stayed behind from the battle to care for her at the command of the Prophet ﷺ. She died while the battle was still being fought. The Prophet ﷺ gave him the good news of the victory while Uthman was at her graveside.",
+          "context": "He was at Badr — the defining battle of early Islam — but he was with his dying wife, by the Prophet's ﷺ own command. This reveals something important: the sunnah does not abandon the vulnerable in pursuit of glory."
+        },
+        {
+          "id": "ut-fa-02",
+          "title": "His Generosity Toward Family Members",
+          "source": "Siyar A'lam al-Nubala 1:469 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Uthman (RA) was generous not only in the public sphere but within his family. He would regularly provide for distant relatives and members of the Banu Umayyah even when they did not ask, and he gave gifts quietly and without announcement, as was his character of modesty.",
+          "context": "His generosity was personal and consistent, not reserved for grand public gestures. He gave to family quietly, without announcement or expectation of acknowledgment."
+        }
+      ],
+      "social": [
+        {
+          "id": "ut-so-01",
+          "title": "His Open Hand to Those in Need",
+          "source": "Siyar A'lam al-Nubala 1:480 (al-Dhahabi)",
+          "chain": "Historical narration via al-Zubayr ibn Bakkar",
+          "content": "It is recorded that Uthman ibn Affan (RA) would free a slave every Friday. He said: I have given a pledge to Allah that I shall free a slave every Friday, and if I do not find one to free I shall fast for three days instead. He kept this practice for years.",
+          "context": "One freed slave per Friday — consistent, week after week. He built an obligation into his own schedule and held himself to it. This is the structure of sustained charity: not waiting to feel generous but creating a regular commitment."
+        },
+        {
+          "id": "ut-so-02",
+          "title": "Providing Food for Pilgrims",
+          "source": "Tarikh al-Tabari 5:441",
+          "chain": "Historical narration",
+          "content": "During the years of his caliphate, Uthman ibn Affan (RA) used to provide food for the pilgrims performing Hajj at his own expense. He would slaughter cattle and distribute the meat throughout the camps. He continued this practice throughout his caliphate without drawing from the public treasury for it.",
+          "context": "As Caliph, he could have charged the expense to the state. He paid from his own wealth. He was careful to distinguish between public responsibility and personal generosity, and the Hajj feeding was a personal gift — not a state function."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "ut-sp-01",
+          "title": "Completing the Quran in a Single Night's Prayer",
+          "source": "Siyar A'lam al-Nubala 1:465 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It is narrated about Uthman ibn Affan (RA) that he used to complete the recitation of the entire Quran in a single rak'ah of the night prayer (witr). Al-Dhahabi and others recorded this as being well-known among the scholars, though different scholars have discussed its chain. What is agreed upon is that he was known for the length and depth of his night prayer and his recitation.",
+          "context": "Regardless of the precise hadith, what historians agree on is that Uthman's nightly recitation of Quran was extraordinary. The man who standardized its written form had internalized its spoken form completely."
+        },
+        {
+          "id": "ut-sp-02",
+          "title": "His Love of the Quran",
+          "source": "Sahih Bukhari 5005",
+          "chain": "Narrated by Uthman (RA)",
+          "content": "The Messenger of Allah ﷺ said: The best of you are those who learn the Quran and teach it. Uthman (RA) narrated this hadith, and it is said that this was one of the reasons he dedicated so much of his life to preserving and disseminating the Quran.",
+          "context": "He narrated this hadith himself — and then lived it. His greatest legacy is the standardized Quran mushaf that he distributed to the major cities of the Islamic world, ensuring the preservation of divine speech for all generations."
+        }
+      ],
+      "private": [
+        {
+          "id": "ut-pr-01",
+          "title": "Performing Ghusl from Janabah Then Praying All Night",
+          "source": "Siyar A'lam al-Nubala 1:463 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Uthman ibn Affan (RA) said: I have never sung a song, never desired what was not mine, and I have not touched my private parts with my right hand since I pledged allegiance to the Messenger of Allah ﷺ with it.",
+          "context": "His private life was governed by the same principles as his public one. He made a personal covenant with himself from the moment of his Islam, and he kept it as private discipline — not announced but revealed years later in conversation."
+        },
+        {
+          "id": "ut-pr-02",
+          "title": "His Composure at the Siege of His House",
+          "source": "Tarikh al-Tabari 5:459",
+          "chain": "Historical narration",
+          "content": "When the rebels besieged his house in 35 AH, Uthman (RA) refused to allow his supporters to fight on his behalf. He said: I will not be the first Caliph to shed Muslim blood. He spent his last days in Quran recitation and prayer, fasting on the day he was killed. He told his wife: I saw the Prophet ﷺ in a dream last night, with Abu Bakr and Umar, and they said: We will break your fast with us tonight.",
+          "context": "He died fasting, with the Quran open in his lap. He chose martyrdom over civil war. Whatever one's view of the politics of the fitna, the manner of his death — serene, fasting, reciting — reveals the consistency of his inner life to its very end."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ali",
+    "slug": "ali",
+    "name": "Ali ibn Abi Talib (RA)",
+    "title": "Asadullah — Lion of Allah",
+    "years": "600–661 CE",
+    "bio": "Ali ibn Abi Talib (RA) was the cousin and son-in-law of the Prophet ﷺ, the fourth Caliph of Islam, and one of the greatest scholars among the companions. Raised in the Prophet's ﷺ household, he was among the very first to accept Islam. Known equally for his extraordinary bravery in battle, his profound scholarship, and the depth of his piety. He is the gateway through which much knowledge of the Prophet's ﷺ inner spiritual life was preserved.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "al-sh-01",
+          "title": "His Description of the Prophet ﷺ",
+          "source": "Shamail al-Tirmidhi 7",
+          "chain": "Narrated by Ali ibn Abi Talib (RA)",
+          "content": "The Messenger of Allah ﷺ was neither very tall nor very short. He was of medium stature. His hair was neither curly nor straight — it had a slight wave. He had a large head. His face was white tinged with redness. He had large black eyes with very long eyelashes. He had a wide chest, and the gap between his shoulders was wide. His hands and feet were large. When he walked, he lifted his feet with vigor, as though walking downhill. When he turned to speak to someone, he turned his whole body.",
+          "context": "Ali (RA) grew up in the same household as the Prophet ﷺ, having been raised by him from childhood. His description is among the most detailed we have — the portrait of someone who watched him every day for decades."
+        },
+        {
+          "id": "al-sh-02",
+          "title": "His Own Physical Courage",
+          "source": "Sahih Bukhari 3701",
+          "chain": "Narrated by Sahl ibn Sa'd (RA)",
+          "content": "On the Day of Khaybar, the Prophet ﷺ said: Tomorrow I will give the flag to a man through whose hands Allah will grant victory — a man who loves Allah and His Messenger, and whom Allah and His Messenger love. That night the people speculated about who it would be. In the morning they came to the Prophet ﷺ each hoping it would be him. He called for Ali ibn Abi Talib (RA), who came though he was suffering from sore eyes. The Prophet ﷺ applied his saliva to his eyes and they were healed. He gave Ali the flag and Allah granted victory through him.",
+          "context": "He came to the Prophet ﷺ with an ailment and left cured, carrying the flag. Physical courage and trust in Allah are inseparable in this account — and the prophetic gesture of healing before the mission is itself a sunnah of care before sending."
+        }
+      ],
+      "trade": [
+        {
+          "id": "al-tr-01",
+          "title": "Earning by His Hands",
+          "source": "Musannaf Ibn Abi Shayba 7:126",
+          "chain": "Historical narration",
+          "content": "Ali ibn Abi Talib (RA) used to hire himself out to work with his hands — drawing water from wells and doing agricultural labor — to earn money for his family when they were in need. He once worked irrigating a Jewish man's garden, receiving one date per bucket of water he drew, and came home to the Prophet ﷺ with a handful of dates from his labor.",
+          "context": "The cousin and son-in-law of the Prophet ﷺ, a man who would become Caliph, drew water from wells for dates. He did not wait for support to come to him. He found work with his hands and brought home what he earned, however small."
+        },
+        {
+          "id": "al-tr-02",
+          "title": "On Lawful Earnings",
+          "source": "Nahj al-Balagha, Letter 53 (to Malik al-Ashtar)",
+          "chain": "Attributed to Ali ibn Abi Talib (RA)",
+          "content": "Let the merchant and the craftsman be held in high regard and recommended good conduct for them. Know that most of them are miserly by nature, hoarding goods, and creating harmful monopolies. This is a source of harm to the public. Prevent monopoly, for the Messenger of Allah ﷺ forbade it. Let trade be easy and let the scales be just.",
+          "context": "In his letter of governance to his appointed governor, Ali devoted detailed attention to market regulation. He named the dangers — hoarding, monopoly, price manipulation — and gave clear instructions. This is applied economic ethics from the fourth Caliph."
+        }
+      ],
+      "family": [
+        {
+          "id": "al-fa-01",
+          "title": "Dividing Household Work with Fatimah (RA)",
+          "source": "Sahih Bukhari 5361",
+          "chain": "Narrated by Ali ibn Abi Talib (RA)",
+          "content": "Fatimah (RA) complained to the Prophet ﷺ about the hardship of hand-grinding flour. Ali said: I came with her to the Prophet ﷺ and asked him for a servant. He said: Shall I not tell you of something better than what you have asked for? When you go to bed, say Subhanallah thirty-three times, Alhamdulillah thirty-three times, and Allahu Akbar thirty-four times. That is better for you than a servant. Ali said: I never abandoned this after the Prophet ﷺ taught it to us. Someone asked: Not even on the night of Siffin? He said: Not even on the night of Siffin.",
+          "context": "He said these remembrances even on the night of Siffin — one of the bloodiest nights of the first Muslim civil war. Whatever was happening in the world, the practice established in his household continued. The private devotional life was armor for the public one."
+        },
+        {
+          "id": "al-fa-02",
+          "title": "His Love for Fatimah (RA)",
+          "source": "Sahih Bukhari 3767",
+          "chain": "Narrated by al-Miswar ibn Makhramah (RA)",
+          "content": "Ali ibn Abi Talib (RA) asked for the hand of Abu Jahl's daughter while married to Fatimah (RA). When Fatimah heard this, she went to the Prophet ﷺ. The Prophet ﷺ stood up and said: Fatimah is a part of me. Whatever distresses her distresses me. I will not permit Ali to marry another woman while Fatimah lives, unless he divorces Fatimah first. So Ali abandoned the proposal.",
+          "context": "The Prophet's ﷺ intervention was immediate and definitive. He did not adjudicate between Ali and Fatimah — he stood beside his daughter. Ali honored the boundary without resentment. This episode preserved the marriage and revealed the Prophet's ﷺ profound care for his daughter's emotional wellbeing."
+        }
+      ],
+      "social": [
+        {
+          "id": "al-so-01",
+          "title": "His Justice Between People",
+          "source": "Sahih Bukhari 6991",
+          "chain": "Narrated by al-Sha'bi",
+          "content": "Ali (RA) lost his armor and later found it in the possession of a Jewish man selling it in the market. He brought the matter before the judge Shurayh, saying: This armor is mine. I did not sell it or give it away. Shurayh said: Do you have a witness? Ali said: Yes — my son Hasan. Shurayh said: A son's testimony for his father is not admissible. Ali accepted the ruling without protest and left. The Jewish man was so moved by this that he said: The Commander of the Believers brings me before his own judge and the judge rules against him — I bear witness that this is the truth. He then returned the armor and accepted Islam.",
+          "context": "He was the Caliph, he was right, and he lost the case — and he accepted it. The Jewish man converted to Islam because of what he witnessed in that courtroom: a ruler who submitted to the rule of law even when it ruled against him."
+        },
+        {
+          "id": "al-so-02",
+          "title": "Equal Treatment Regardless of Status",
+          "source": "Nahj al-Balagha, Sermon 216",
+          "chain": "Attributed to Ali ibn Abi Talib (RA)",
+          "content": "By Allah, I would rather spend the night in wakefulness on thorns of sa'dan (a thorny plant) and be dragged in chains of iron than meet Allah and His Messenger having oppressed any of His servants or having seized anything from the goods of this world. How can I oppress anyone for a body that is fading quickly toward old age and that must remain for a long time under the ground?",
+          "context": "This is the ethical framework behind his governance: the awareness of personal decay and ultimate accountability made oppression literally unthinkable to him. He could not oppress people he would one day face before Allah."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "al-sp-01",
+          "title": "His Intense Prayer at Dawn",
+          "source": "Siyar A'lam al-Nubala 1:252 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Ali ibn Abi Talib (RA) would tremble when the time of prayer approached. He was asked about this and said: The time has come for a trust that Allah presented to the heavens and the earth and the mountains and they refused to bear it — but the human being bore it. And I do not know whether I will carry out this trust well or not.",
+          "context": "He trembled at the prayer call. Not as weakness — he was a man of extraordinary physical courage. He trembled because he understood what prayer was: a covenant with the Creator that the creation itself had declined. This is reverential awe in its most complete form."
+        },
+        {
+          "id": "al-sp-02",
+          "title": "His Supplication in the Night",
+          "source": "Nahj al-Balagha, Dua Kumayl (widely transmitted)",
+          "chain": "Attributed to Ali ibn Abi Talib (RA)",
+          "content": "O Allah, I ask You by Your mercy which encompasses all things; by Your strength by which You overpower all things and submit to it all things; by Your might against which nothing stands; by Your greatness which has filled all things; by Your authority which is exalted above all things; by Your face which subsists after the annihilation of all things — forgive me my sins which have torn away the veils of modesty before You.",
+          "context": "The Dua Kumayl is one of the most moving supplications preserved in the Islamic tradition. It is attributed to Ali (RA) who taught it to Kumayl ibn Ziyad. Whether it is entirely his composition or received from the Prophet ﷺ, it reflects the depth of his knowledge of divine attributes and the sincerity of his private relationship with Allah."
+        }
+      ],
+      "private": [
+        {
+          "id": "al-pr-01",
+          "title": "His Patched and Simple Clothing",
+          "source": "Hilyat al-Awliya 1:84 (Abu Nu'aym)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Ali ibn Abi Talib (RA) used to wear simple, worn garments and patch them himself. He said: I am ashamed before Allah to put on the garments of splendor while around me there are those who cannot cover themselves.",
+          "context": "He gave a reason for his simplicity: shame. Not performance, not rule-following — personal shame at wearing fine cloth while others went without. Simplicity rooted in awareness of others is a form of social consciousness as much as spiritual practice."
+        },
+        {
+          "id": "al-pr-02",
+          "title": "His Recitation of Quran Through the Night",
+          "source": "Siyar A'lam al-Nubala 1:254 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "It is narrated that Ali (RA) would often spend long hours in the night reciting Quran in prayer, and that those who stayed near his house in Kufa could hear his recitation long after people had gone to sleep. On some nights he was heard reciting until dawn.",
+          "context": "The nights of the Caliph were not spent strategizing over affairs of state but in Quran recitation until the call to Fajr came. The private devotional life ran beneath the public life like an underground river — invisible to most, but the source of everything above."
+        }
+      ]
+    }
+  },
+  {
+    "id": "aisha",
+    "slug": "aisha",
+    "name": "Aisha bint Abi Bakr (RA)",
+    "title": "Umm al-Mu'minin — Mother of the Believers",
+    "years": "614–678 CE",
+    "bio": "Aisha bint Abi Bakr (RA) was the beloved wife of the Prophet ﷺ and one of the greatest scholars in all of Islamic history. She narrated over 2,210 hadiths — more than almost any other companion — and scholars would travel across the Islamic world to learn from her. Known for her razor-sharp intellect, her mastery of Arabic poetry and medicine, her extraordinary generosity, and her warm, playful character.",
+    "topics": {
+      "shamail": [
+        {
+          "id": "ai-sh-01",
+          "title": "Her Description of the Prophet's ﷺ Character",
+          "source": "Sahih Muslim 746",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "When Aisha (RA) was asked about the character of the Messenger of Allah ﷺ, she said: His character was the Quran. Do you not recite the words of Allah: And indeed, you are of a great moral character? She then said: Were you not to recite the Quran, it would be enough to say: Whatever the Quran commands, he did it. Whatever the Quran forbids, he stayed away from it.",
+          "context": "Her answer to the question of the Prophet's ﷺ character was not a list of traits but a reference to a book. This answer invites us to understand his character through the Quran itself — and to understand the Quran through his character. Each illuminates the other."
+        },
+        {
+          "id": "ai-sh-02",
+          "title": "Her Own Truthfulness",
+          "source": "Sahih Bukhari 4757",
+          "chain": "Historical context narrated by multiple companions",
+          "content": "When the People of Slander (ahl al-ifk) spread false accusations against Aisha (RA), she remained patient and trusting in Allah's clarity of her name. Her mother said to her: Do not be distressed — by Allah, rarely is a beautiful woman beloved by her husband and her co-wives without them saying much about her. Then Allah revealed ten verses in Surah al-Nur clearing her name completely.",
+          "context": "Her name was cleared by divine revelation — a distinction held by no other human being. The patience she maintained during the trial, without anger or self-defense, demonstrated the same character she had described in the Prophet ﷺ: the Quran, embodied."
+        }
+      ],
+      "trade": [
+        {
+          "id": "ai-tr-01",
+          "title": "Giving Away One Hundred Thousand Dirhams",
+          "source": "Siyar A'lam al-Nubala 2:185 (al-Dhahabi)",
+          "chain": "Narrated by Urwah ibn al-Zubayr (RH)",
+          "content": "Aisha (RA) received one hundred thousand dirhams as a gift. She was fasting that day. She began distributing them to the poor until the evening, and by sunset there was nothing left. Her slave girl said: Could you not have bought a dirham's worth of meat for us to break our fast with? She said: If you had reminded me I would have.",
+          "context": "She distributed one hundred thousand dirhams in a single day while fasting, and forgot to keep even one dirham for the evening meal. This is not forgetfulness about money — it is the state of a person so completely oriented toward giving that keeping anything for herself was an afterthought."
+        },
+        {
+          "id": "ai-tr-02",
+          "title": "Her Practice of Continuous Giving",
+          "source": "Siyar A'lam al-Nubala 2:186 (al-Dhahabi)",
+          "chain": "Narrated by Urwah ibn al-Zubayr (RH)",
+          "content": "Urwah said: I saw Aisha (RA) give away seventy thousand dirhams in charity while her own garment was patched. She never kept anything in the house overnight if she could help it. Whatever came to her, she gave away.",
+          "context": "She gave away fortunes in patched clothing. She was not poor — she received significant gifts from the caliphs and from people seeking her guidance. She simply did not keep what came to her."
+        }
+      ],
+      "family": [
+        {
+          "id": "ai-fa-01",
+          "title": "Racing the Prophet ﷺ",
+          "source": "Sunan Abu Dawud 2578",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Aisha (RA) said: I raced with the Prophet ﷺ on foot and I outran him. This was before I put on weight. Then I raced him again, and he outran me. He said: This makes up for that.",
+          "context": "They raced each other. The Prophet ﷺ laughed and kept count — he owed her a win. The playfulness of their relationship, the physical delight in each other's company, the keeping of a lighthearted score — this is the texture of a marriage that was also a deep friendship."
+        },
+        {
+          "id": "ai-fa-02",
+          "title": "Watching the Abyssinian Performers Together",
+          "source": "Sahih Bukhari 5236",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "The Abyssinians were performing with their spears in the mosque on the day of Eid. The Prophet ﷺ either asked me or I asked him: Would you like to watch? I said yes. So he stood at the door and I put my cheek on his cheek, and I watched over his shoulder or from beside him while the Abyssinians performed. He stood there for my sake until I was the one who had enough and turned away.",
+          "context": "He held his position — standing at the door while she watched over his shoulder — until she was done, not until he was done. He gave her the experience she wanted, fully, without rushing her. This is attention as love."
+        }
+      ],
+      "social": [
+        {
+          "id": "ai-so-01",
+          "title": "Scholars Coming to Her Door",
+          "source": "Siyar A'lam al-Nubala 2:183 (al-Dhahabi)",
+          "chain": "Historical narration",
+          "content": "Scholars and companions would come to Aisha (RA) from Madinah and from other cities to ask her about matters of fiqh, medicine, and the sunnah. She would speak to men from behind a curtain and her knowledge was regarded as authoritative. Abu Musa al-Ash'ari (RA) said: We, the companions of the Prophet ﷺ, never encountered a hadith that was unclear to us without asking Aisha and finding knowledge about it with her.",
+          "context": "She was the reference point for the companions themselves when they were uncertain. The Mother of the Believers was a scholarly resource, not merely a domestic figure. Her chambers were a school."
+        },
+        {
+          "id": "ai-so-02",
+          "title": "Her Correction of Companions' Errors",
+          "source": "Sahih Muslim 293",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Aisha (RA) used to correct the companions when she heard an error, including major figures. When it was reported that Ibn Umar (RA) narrated that the deceased is punished due to the weeping of his family, Aisha said: May Allah forgive Abu Abd al-Rahman. He did not lie but he forgot or made a mistake. The Prophet ﷺ passed by a Jewish woman who was being wept over, and he said: Her family is weeping for her and she is being punished in her grave. The punishment was for her own deeds, not because of the weeping.",
+          "context": "She corrected a senior companion's transmission of a hadith — publicly, with a textual counterexample, and without disrespect. This is scholarly courage: the truth of the sunnah mattered more than the social difficulty of contradicting an elder."
+        }
+      ],
+      "spiritual": [
+        {
+          "id": "ai-sp-01",
+          "title": "Her Lengthy Prayers and Fasting",
+          "source": "Sahih Bukhari 1147",
+          "chain": "Narrated by Urwah ibn al-Zubayr (RH)",
+          "content": "Aisha (RA) used to pray the night prayer until she grew weary, and she fasted so frequently that her family would sometimes worry about her. Urwah (RH) narrated that she maintained fasting from the first of Rajab through Sha'ban and much of Ramadan, and that she would spend long nights in voluntary prayer especially in the last ten days of Ramadan.",
+          "context": "She carried the devotional practices she had observed in the Prophet ﷺ and made them her own. His weeping in prayer, his night standing, his fasting — she practiced them all, adapting the Prophet's ﷺ sunnah to her own life after his death."
+        },
+        {
+          "id": "ai-sp-02",
+          "title": "Her Remembrance of Allah at All Times",
+          "source": "Sahih Muslim 373",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Aisha (RA) said: The Messenger of Allah ﷺ used to remember Allah in all his states. She narrated this as a practice she observed in him — he spoke of Allah in every condition, whether sitting, standing, lying down, or in movement. This was not restricted to formal worship.",
+          "context": "She was close enough to observe his private states and she narrated this as a consistent pattern: constant remembrance. The formal prayers were the pinnacle of a life that was entirely oriented toward Allah, not islands of devotion in an otherwise secular day."
+        }
+      ],
+      "private": [
+        {
+          "id": "ai-pr-01",
+          "title": "Washing the Prophet's ﷺ Hair",
+          "source": "Sahih Bukhari 295",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "Aisha (RA) said: I used to wash the head of the Messenger of Allah ﷺ while I was menstruating. She would sit at the door of her room while he sat on a low chair and leaned his head toward her, and she washed his hair from outside the room.",
+          "content": "She described this domestic intimacy without self-consciousness. Her relationship with the Prophet ﷺ was physical and present — she washed his hair, she shared his bed, she knew the details of his private life that no one else did. The hadiths she narrated about his ablutions and his sleep came from shared life, not observation from a distance."
+        },
+        {
+          "id": "ai-pr-02",
+          "title": "Her Knowledge of His Private Worship",
+          "source": "Sahih Bukhari 1133",
+          "chain": "Narrated by Aisha (RA)",
+          "content": "The Prophet ﷺ used to pray eleven rak'ahs in the night — that was his night prayer. Each prostration lasted as long as it would take one of you to recite fifty verses. Then he would pray two rak'ahs sitting before the Fajr prayer. Then he would lie on his right side until the mu'adhdhin came to give the call to prayer.",
+          "context": "She counted and measured and remembered. Eleven rak'ahs. Fifty verses per prostration. Two sitting rak'ahs. A rest on the right side. She was the keeper of the Prophet's ﷺ private worship schedule — the primary transmitter of his intimate spiritual life to all generations after."
+        }
+      ]
+    }
+  }
+]
