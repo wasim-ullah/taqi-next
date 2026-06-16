@@ -30,11 +30,11 @@ export default function AboutPage() {
           style={{ fontSize: "40px", lineHeight: "2.8" }}
           dir="rtl"
         >
-          طاقي
+          تقي
         </p>
         <h1 className="text-sm font-semibold text-white mb-3">The Pure One</h1>
         <p className="text-xs text-[#666] leading-relaxed max-w-lg">
-          <em>Taqi</em> (طاقي) means the pure one in Arabic — a name given to those who are pious, God-fearing, and careful in their conduct.
+          <em>Taqi</em> (تقي) means the pure one in Arabic — a name given to those who are pious, God-fearing, and careful in their conduct.
         </p>
       </header>
 

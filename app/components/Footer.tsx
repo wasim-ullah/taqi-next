@@ -22,7 +22,7 @@ export default function Footer() {
               style={{ fontSize: "28px", lineHeight: "2.6" }}
               dir="rtl"
             >
-              طاقي
+              تقي
             </p>
             <p className="text-xs text-[#555] mt-2">The pure one.</p>
           </div>

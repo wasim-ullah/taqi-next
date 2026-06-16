@@ -86,7 +86,7 @@ export default function HomePage() {
               Al-Ahzab &middot; 33:21
             </p>
             <p className="font-arabic text-white text-right" style={{fontSize:"30px",lineHeight:"2.8"}} dir="rtl">
-              &#x644;&#x64E;&#x642;&#x64E;&#x62F;&#x652; &#x643;&#x64E;&#x627;&#x646;&#x64E; &#x644;&#x64E;&#x643;&#x64F;&#x645;&#x652; &#x641;&#x650;&#x64A; &#x631;&#x64E;&#x633;&#x64F;&#x648;&#x644;&#x650; &#x627;&#x644;&#x644;&#x651;&#x64E;&#x647;&#x650; &#x623;&#x64F;&#x633;&#x652;&#x648;&#x64E;&#x629;&#xCC8; &#x62D;&#x64E;&#x633;&#x64E;&#x646;&#x64E;&#x629;&#xCC8;
+              &#x644;&#x64E;&#x642;&#x64E;&#x62F;&#x652; &#x643;&#x64E;&#x627;&#x646;&#x64E; &#x644;&#x64E;&#x643;&#x64F;&#x645;&#x652; &#x641;&#x650;&#x64A; &#x631;&#x64E;&#x633;&#x64F;&#x648;&#x644;&#x650; &#x627;&#x644;&#x644;&#x651;&#x64E;&#x647;&#x650; &#x623;&#x64F;&#x633;&#x652;&#x648;&#x64E;&#x629;&#x064C; &#x62D;&#x64E;&#x633;&#x64E;&#x646;&#x64E;&#x629;&#x064C;
             </p>
             <p className="text-xs text-[#555] mt-4 text-right leading-relaxed">
               Indeed in the Messenger of Allah you have an excellent example.
