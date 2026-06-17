@@ -23,16 +23,16 @@ export default function AboutPage() {
     <>
       <Navbar />
 
-      <header className="max-w-3xl mx-auto px-4 pt-16 pb-10 border-b border-[#1a1a1a]">
-        <p className="text-[10px] uppercase tracking-widest text-[#555] mb-6">About</p>
+      <header className="max-w-3xl mx-auto px-4 pt-16 pb-10 border-b border-[#e5e5e5]">
+        <p className="text-[10px] uppercase tracking-widest text-[#999] mb-6">About</p>
         <p
-          className="font-arabic text-white mb-6 text-right"
+          className="font-arabic text-[#111] mb-6 text-right"
           style={{ fontSize: "40px", lineHeight: "2.8" }}
           dir="rtl"
         >
           تقي
         </p>
-        <h1 className="text-sm font-semibold text-white mb-3">The Pure One</h1>
+        <h1 className="text-sm font-semibold text-[#111] mb-3">The Pure One</h1>
         <p className="text-sm text-[#999] leading-relaxed max-w-lg">
           Taqi (تقي) means the pure one in Arabic — a name given to those who are pious, God-fearing, and careful in their conduct.
         </p>
@@ -41,7 +41,7 @@ export default function AboutPage() {
       <section className="max-w-3xl mx-auto px-4 py-12">
 
         {/* What this is */}
-        <div className="border border-[#1a1a1a] p-6 mb-px">
+        <div className="border border-[#e5e5e5] p-6 mb-px">
           <p className="text-[10px] uppercase tracking-widest text-[#777] mb-4">What this is</p>
           <p className="text-sm text-[#999] leading-relaxed mb-3">
             This site is an attempt to make the lived example of Islam&rsquo;s best generations accessible and practical — organized not by biography but by domain. Four generations, six domains each: Shamail (character), Trade &amp; Business, Family Life, Social Life, Spiritual Life, and Private Life.
@@ -52,22 +52,22 @@ export default function AboutPage() {
         </div>
 
         {/* The four generations */}
-        <div className="border border-[#1a1a1a] border-t-0 p-6 mb-px">
+        <div className="border border-[#e5e5e5] border-t-0 p-6 mb-px">
           <p className="text-[10px] uppercase tracking-widest text-[#777] mb-4">The Four Generations</p>
-          <div className="grid grid-cols-1 gap-px bg-[#1a1a1a]">
+          <div className="grid grid-cols-1 gap-px bg-[#e5e5e5]">
             {[
               { gen: "I", label: "The Prophet ﷺ", arabic: "النَّبِيُّ ﷺ", note: "The Messenger of Allah, Muhammad ibn Abdullah (570–632 CE)" },
               { gen: "II", label: "Al-Sahaba", arabic: "الصَّحَابَة", note: "Those who saw the Prophet ﷺ and believed in him" },
               { gen: "III", label: "Al-Tabi'een", arabic: "التَّابِعُون", note: "Those who saw the Sahaba and followed their way" },
               { gen: "IV", label: "Taba Tabi'een", arabic: "تَبَع التَّابِعِين", note: "Those who saw the Tabi'een — the generation of the great Imams" },
             ].map((g) => (
-              <div key={g.gen} className="bg-black p-4 flex items-center justify-between gap-4">
+              <div key={g.gen} className="bg-white p-4 flex items-center justify-between gap-4">
                 <div>
-                  <p className="text-[10px] uppercase tracking-widest text-[#555] mb-1">Gen {g.gen} · {g.label}</p>
+                  <p className="text-[10px] uppercase tracking-widest text-[#999] mb-1">Gen {g.gen} · {g.label}</p>
                   <p className="text-sm text-[#888] leading-relaxed">{g.note}</p>
                 </div>
                 <p
-                  className="font-arabic text-[#333] text-right flex-shrink-0"
+                  className="font-arabic text-[#bbb] text-right flex-shrink-0"
                   style={{ fontSize: "18px", lineHeight: "2.4" }}
                   dir="rtl"
                 >
@@ -79,17 +79,17 @@ export default function AboutPage() {
         </div>
 
         {/* Sources */}
-        <div className="border border-[#1a1a1a] border-t-0 p-6 mb-px">
+        <div className="border border-[#e5e5e5] border-t-0 p-6 mb-px">
           <p className="text-[10px] uppercase tracking-widest text-[#777] mb-4">Sources Used</p>
-          <div className="grid grid-cols-1 gap-px bg-[#1a1a1a]">
+          <div className="grid grid-cols-1 gap-px bg-[#e5e5e5]">
             {sources.map((s) => (
-              <div key={s.english} className="bg-black p-4 flex items-start justify-between gap-4">
+              <div key={s.english} className="bg-white p-4 flex items-start justify-between gap-4">
                 <div>
-                  <p className="text-xs text-[#bbb] mb-0.5">{s.english}</p>
-                  <p className="text-xs text-[#666]">{s.author}</p>
+                  <p className="text-xs text-[#aaa] mb-0.5">{s.english}</p>
+                  <p className="text-xs text-[#888]">{s.author}</p>
                 </div>
                 <p
-                  className="font-arabic text-[#333] text-right flex-shrink-0"
+                  className="font-arabic text-[#bbb] text-right flex-shrink-0"
                   style={{ fontSize: "14px", lineHeight: "2.2" }}
                   dir="rtl"
                 >
@@ -101,7 +101,7 @@ export default function AboutPage() {
         </div>
 
         {/* Hadith grading note */}
-        <div className="border border-[#1a1a1a] border-t-0 p-6">
+        <div className="border border-[#e5e5e5] border-t-0 p-6">
           <p className="text-[10px] uppercase tracking-widest text-[#777] mb-4">On Authenticity</p>
           <p className="text-sm text-[#999] leading-relaxed mb-3">
             Only narrations graded Sahih (authentic) or Hasan (good) have been included. Where narrations come from biographical sources (Tabaqat, Siyar, Hilyat al-Awliya), they are drawn from accounts considered reliable by the compiling scholars.

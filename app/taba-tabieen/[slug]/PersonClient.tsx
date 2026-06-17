@@ -25,7 +25,7 @@ export default function PersonClient({ person }: { person: Person }) {
           <HadithCard key={entry.id || i} entry={entry} />
         ))}
         {filtered.length === 0 && (
-          <p className="text-xs text-[#555] py-16 text-center">No entries for this topic.</p>
+          <p className="text-xs text-[#999] py-16 text-center">No entries for this topic.</p>
         )}
       </div>
     </>

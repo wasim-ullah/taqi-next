@@ -24,7 +24,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
-      <body className="font-ui antialiased bg-black text-white min-h-screen">
+      <body className="font-ui antialiased bg-white text-[#111] min-h-screen">
         {children}
       </body>
     </html>

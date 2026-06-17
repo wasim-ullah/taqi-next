@@ -15,10 +15,10 @@ export default function Navbar() {
   const pathname = usePathname();
 
   return (
-    <nav className="h-10 border-b border-[#1a1a1a] px-4 flex items-center justify-between bg-black sticky top-0 z-50">
+    <nav className="h-10 border-b border-[#e5e5e5] px-4 flex items-center justify-between bg-white sticky top-0 z-50">
       <Link
         href="/"
-        className="text-[10px] uppercase tracking-widest text-[#777] hover:text-white transition-colors"
+        className="text-[10px] uppercase tracking-widest text-[#777] hover:text-[#111] transition-colors"
       >
         taqi
       </Link>
@@ -30,8 +30,8 @@ export default function Navbar() {
             href={l.href}
             className={`text-[10px] uppercase tracking-widest transition-colors ${
               pathname === l.href || pathname.startsWith(l.href + "/")
-                ? "text-white"
-                : "text-[#777] hover:text-white"
+                ? "text-[#111]"
+                : "text-[#777] hover:text-[#111]"
             }`}
           >
             {l.label}

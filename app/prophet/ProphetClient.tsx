@@ -18,12 +18,12 @@ export default function ProphetClient({ entries }: { entries: HadithEntry[] }) {
       <div className="max-w-3xl mx-auto px-4 py-8">
         {/* Shamail intro when active */}
         {active === "shamail" && (
-          <div className="border border-[#1a1a1a] p-6 mb-8">
+          <div className="border border-[#e5e5e5] p-6 mb-8">
             <p className="text-[10px] uppercase tracking-widest text-[#777] mb-3">
               Al-Shamail al-Muhammadiyya
             </p>
             <p
-              className="font-arabic text-[#bbb] text-right mb-4"
+              className="font-arabic text-[#aaa] text-right mb-4"
               style={{ fontSize: "22px", lineHeight: "2.6" }}
               dir="rtl"
             >
@@ -40,7 +40,7 @@ export default function ProphetClient({ entries }: { entries: HadithEntry[] }) {
         ))}
 
         {filtered.length === 0 && (
-          <p className="text-xs text-[#555] py-16 text-center">No entries found.</p>
+          <p className="text-xs text-[#999] py-16 text-center">No entries found.</p>
         )}
       </div>
     </>

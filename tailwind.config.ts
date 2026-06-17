@@ -10,13 +10,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        bg:              "#000000",
-        surface:         "#0f0f0f",
-        border:          "#222222",
-        "border-subtle": "#181818",
-        primary:         "#ffffff",
-        secondary:       "#888888",
-        muted:           "#444444",
+        bg:              "#ffffff",
+        surface:         "#f8f8f8",
+        border:          "#e0e0e0",
+        "border-subtle": "#ebebeb",
+        primary:         "#111111",
+        secondary:       "#666666",
+        muted:           "#999999",
       },
       fontFamily: {
         arabic:   ["'IndoPak Nastaleeq'", "var(--font-arabic)", "serif"],

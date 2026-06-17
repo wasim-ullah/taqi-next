@@ -13,28 +13,28 @@
 :root {
   --font-arabic:    'IndoPak Nastaleeq', serif;
   --font-nastaliq:  'Noto Nastaliq Urdu', serif;
-  --background:     #000000;
-  --surface:        #0f0f0f;
-  --border:         #222222;
-  --border-subtle:  #181818;
-  --text-primary:   #ffffff;
-  --text-secondary: #888888;
-  --text-muted:     #444444;
+  --background:     #ffffff;
+  --surface:        #f8f8f8;
+  --border:         #e0e0e0;
+  --border-subtle:  #ebebeb;
+  --text-primary:   #111111;
+  --text-secondary: #666666;
+  --text-muted:     #999999;
   --radius:         0px;
 }
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
-  background: #000;
-  color: #fff;
+  background: #fff;
+  color: #111;
   font-size: 13px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
 
-::selection { background: #fff; color: #000; }
+::selection { background: #111; color: #fff; }
 ::-webkit-scrollbar { width: 4px; }
-::-webkit-scrollbar-track { background: #000; }
-::-webkit-scrollbar-thumb { background: #333; }
-::-webkit-scrollbar-thumb:hover { background: #555; }
+::-webkit-scrollbar-track { background: #fff; }
+::-webkit-scrollbar-thumb { background: #ccc; }
+::-webkit-scrollbar-thumb:hover { background: #aaa; }

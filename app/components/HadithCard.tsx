@@ -20,23 +20,23 @@ const TOPIC_LABEL: Record<string, string> = {
 
 export default function HadithCard({ entry }: { entry: HadithCardEntry }) {
   return (
-    <article className="border-b border-[#1a1a1a] py-12 last:border-0">
+    <article className="border-b border-[#e5e5e5] py-12 last:border-0">
       {/* Topic badge */}
       <div className="mb-5">
-        <span className="border border-[#222] text-[10px] uppercase tracking-widest text-[#777] px-2 py-1">
+        <span className="border border-[#ddd] text-[10px] uppercase tracking-widest text-[#777] px-2 py-1">
           {TOPIC_LABEL[entry.topic] ?? entry.topic}
         </span>
       </div>
 
       {/* Title */}
-      <h3 className="text-base font-semibold text-white mb-6 leading-snug">
+      <h3 className="text-base font-semibold text-[#111] mb-6 leading-snug">
         {entry.title}
       </h3>
 
       {/* Arabic text (if provided) */}
       {entry.arabic && (
         <p
-          className="font-arabic text-white mb-6"
+          className="font-arabic text-[#111] mb-6"
           style={{ fontSize: "28px", lineHeight: "2.6" }}
           dir="rtl"
         >
@@ -45,14 +45,14 @@ export default function HadithCard({ entry }: { entry: HadithCardEntry }) {
       )}
 
       {/* English content */}
-      <blockquote className="border-l border-[#444] pl-5 mb-6">
-        <p className="text-sm text-[#d4d4d4] leading-[1.9]">
+      <blockquote className="border-l border-[#bbb] pl-5 mb-6">
+        <p className="text-sm text-[#1a1a1a] leading-[1.9]">
           &ldquo;{entry.content}&rdquo;
         </p>
       </blockquote>
 
       {/* Source */}
-      <p className="text-[10px] uppercase tracking-widest text-[#666] mb-5">
+      <p className="text-[10px] uppercase tracking-widest text-[#888] mb-5">
         — {entry.source}
         {entry.chain ? `, ${entry.chain}` : ""}
       </p>

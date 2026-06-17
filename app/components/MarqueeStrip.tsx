@@ -15,18 +15,18 @@ export default function MarqueeStrip() {
   const doubled = [...items, ...items];
 
   return (
-    <div className="w-full overflow-hidden border-y border-[#1a1a1a] py-2.5 bg-[#0a0a0a]">
+    <div className="w-full overflow-hidden border-y border-[#e5e5e5] py-2.5 bg-[#f5f5f5]">
       <div className="flex animate-marquee whitespace-nowrap">
         {doubled.map((item, i) => (
           <span key={i} className="inline-flex items-center mx-6">
             <span
-              className="font-arabic text-[#bbb]"
+              className="font-arabic text-[#aaa]"
               style={{ fontSize: "18px", lineHeight: "2.2" }}
               dir="rtl"
             >
               {item}
             </span>
-            <span className="mx-5 text-[#555] text-xs">·</span>
+            <span className="mx-5 text-[#999] text-xs">·</span>
           </span>
         ))}
       </div>

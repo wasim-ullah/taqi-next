@@ -18,7 +18,7 @@ export default function TopicFilter({
   onChange: (t: string) => void;
 }) {
   return (
-    <div className="sticky top-10 z-40 border-b border-[#1a1a1a] bg-black">
+    <div className="sticky top-10 z-40 border-b border-[#e5e5e5] bg-white">
       <div className="max-w-3xl mx-auto px-4">
         <div className="flex overflow-x-auto py-2.5 gap-px">
           {TOPICS.map((t) => (
@@ -27,8 +27,8 @@ export default function TopicFilter({
               onClick={() => onChange(t.id)}
               className={`whitespace-nowrap px-4 py-1.5 text-[10px] uppercase tracking-widest transition-colors ${
                 active === t.id
-                  ? "bg-white text-black font-semibold"
-                  : "border border-[#1a1a1a] text-[#777] hover:text-white"
+                  ? "bg-black text-white font-semibold"
+                  : "border border-[#e5e5e5] text-[#777] hover:text-[#111]"
               }`}
             >
               {t.label}
